@@ -9,7 +9,8 @@ Lì Renzo, al chiasso de' saluti che coloro gli urlavan dietro, si voltò in fre
 Renzo, visto il letto che l'aspettava, si rallegrò; guardò amorevolmente l'oste, con due occhietti che ora scintillavan più che mai, ora s'ecclissavano, come due lucciole; cercò d'equilibrarsi sulle gambe; e stese la mano al viso dell'oste, per prendergli il ganascino, in segno d'amicizia e di riconoscenza; ma non gli riuscì.
 «Bravo oste!» gli riuscì però di dire: «ora vedo che sei un galantuomo: questa è un'opera buona, dare un letto a un buon figliuolo; ma quella figura che m'hai fatta, sul nome e cognome, quella non era da galantuomo.
 Per buona sorte che anch'io son furbo la mia parte...»
-L'oste, il quale non pensava che colui potesse ancor tanto connettere; l'oste che, per lunga esperienza, sapeva quanto gli uomini, in quello stato, sian più soggetti del solito a cambiar di parere, volle approfittare di quel lucido intervallo, per fare un altro tentativo. «Figliuolo caro,» disse, con una voce e con un fare tutto gentile: «non l'ho fatto per seccarvi, né per sapere i fatti vostri.
+L'oste, il quale non pensava che colui potesse ancor tanto connettere; l'oste che, per lunga esperienza, sapeva quanto gli uomini, in quello stato, sian più soggetti del solito a cambiar di parere, volle approfittare di quel lucido intervallo, per fare un altro tentativo.
+«Figliuolo caro,» disse, con una voce e con un fare tutto gentile: «non l'ho fatto per seccarvi, né per sapere i fatti vostri.
 Cosa volete? è legge: anche noi bisogna ubbidire; altrimenti siamo i primi a portarne la pena.
 È meglio contentarli, e...
 Di che si tratta finalmente?
@@ -18,21 +19,26 @@ Non per loro, ma per fare un piacere a me: via; qui tra noi, a quattr'occhi, fac
 «Ah birbone!» esclamò Renzo: «mariolo! tu mi torni ancora in campo con quell'infamità del nome, cognome e negozio!»
 «Sta’ zitto, buffone; va’ a letto,» diceva l'oste.
 Ma Renzo continuava più forte: «ho inteso: sei della lega anche tu.
-Aspetta, aspetta, che t'accomodo io.» E voltando la testa verso la scaletta, cominciava a urlare più forte ancora: «amici! l'oste è della...»
+Aspetta, aspetta, che t'accomodo io.»
+E voltando la testa verso la scaletta, cominciava a urlare più forte ancora: «amici! l'oste è della...»
 «Ho detto per celia,» gridò questo sul viso di Renzo, spingendolo verso il letto: «per celia; non hai inteso che ho detto per celia?»
 «Ah! per celia: ora parli bene.
 Quando hai detto per celia...
-Son proprio celie.» E cadde bocconi sul letto .
+Son proprio celie.»
+E cadde bocconi sul letto .
 «Animo; spogliatevi; presto,» disse l'oste, e al consiglio aggiunse l'aiuto; che ce n'era bisogno.
 Quando Renzo si fu levato il farsetto (e ce ne volle), l'oste l'agguantò subito, e corse con le mani alle tasche, per vedere se c'era il morto.
 Lo trovò: e pensando che, il giorno dopo, il suo ospite avrebbe avuto a fare i conti con tutt'altri che con lui, e che quel morto sarebbe probabilmente caduto in mani di dove un oste non avrebbe potuto farlo uscire; volle provarsi se almeno gli riusciva di concluder quest'altro affare.
 «Voi siete un buon figliuolo, un galantuomo; n'è vero?» disse.
-«Buon figliuolo, galantuomo,» rispose Renzo, facendo tuttavia litigar le dita co' bottoni de' panni che non s'era ancor potuto levare. «Bene,» replicò l'oste: «saldate ora dunque quel poco conticino, perché domani io devo uscire per certi miei affari...»
-«Quest'è giusto,» disse Renzo. «Son furbo, ma galantuomo...
+«Buon figliuolo, galantuomo,» rispose Renzo, facendo tuttavia litigar le dita co' bottoni de' panni che non s'era ancor potuto levare.
+«Bene,» replicò l'oste: «saldate ora dunque quel poco conticino, perché domani io devo uscire per certi miei affari...»
+«Quest'è giusto,» disse Renzo.
+«Son furbo, ma galantuomo...
 Ma i danari?
 Andare a cercare i danari ora!»
 «Eccoli qui,» disse l'oste: e, mettendo in opera tutta la sua pratica, tutta la sua pazienza, tutta la sua destrezza, gli riuscì di fare il conto con Renzo, e di pagarsi.
-«Dammi una mano, ch'io possa finir di spogliarmi, oste,» disse Renzo. «Lo vedo anch'io, ve', che ho addosso un gran sonno.»
+«Dammi una mano, ch'io possa finir di spogliarmi, oste,» disse Renzo.
+«Lo vedo anch'io, ve', che ho addosso un gran sonno.»
 L'oste gli diede l'aiuto richiesto; gli stese per di più la coperta addosso, e gli disse sgarbatamente «buona notte,» che già quello russava.
 Poi, per quella specie d'attrattiva, che alle volte ci tiene a considerare un oggetto di stizza, al pari che un oggetto d'amore, e che forse non è altro che il desiderio di conoscere ciò che opera fortemente sull'animo nostro, si fermò un momento a contemplare l'ospite così noioso per lui, alzandogli il lume sul viso, e facendovi, con la mano stesa, ribatter sopra la luce; in quell'atto a un di presso che vien dipinta Psiche, quando sta a spiare furtivamente le forme del consorte sconosciuto.
 «Pezzo d'asino!» disse nella sua mente al povero addormentato: «sei andato proprio a cercartela.
@@ -128,12 +134,14 @@ Bacio le mani a vossignoria.»
 Allo spuntar del giorno, Renzo russava da circa sett'ore, ed era ancora, poveretto! sul più bello, quando due forti scosse alle braccia, e una voce che dappiè del letto gridava: «Lorenzo Tramaglino!», lo fecero riscotere.
 Si risentì, ritirò le braccia, aprì gli occhi a stento; e vide ritto appiè del letto un uomo vestito di nero, e due armati, uno di qua, uno di là del capezzale.
 E, tra la sorpresa, e il non esser desto bene, e la spranghetta di quel vino che sapete, rimase un momento come incantato; e credendo di sognare, e non piacendogli quel sogno, si dimenava, come per isvegliarsi affatto.
-«Ah! avete sentito una volta, Lorenzo Tramaglino?» disse l'uomo dalla cappa nera, quel notaio medesimo della sera avanti. «Animo dunque; levatevi, e venite con noi.»
+«Ah! avete sentito una volta, Lorenzo Tramaglino?» disse l'uomo dalla cappa nera, quel notaio medesimo della sera avanti.
+«Animo dunque; levatevi, e venite con noi.»
 «Lorenzo Tramaglino!» disse Renzo Tramaglino: «cosa vuol dir questo?
 Cosa volete da me?
 Chi v'ha detto il mio nome?»
 «Meno ciarle, e fate presto,» disse uno de' birri che gli stavano a fianco, prendendogli di nuovo il braccio.
-«Ohe! che prepotenza è questa?» gridò Renzo, ritirando il braccio. «Oste! o l'oste!»
+«Ohe! che prepotenza è questa?» gridò Renzo, ritirando il braccio.
+«Oste! o l'oste!»
 «Lo portiam via in camicia?» disse ancora quel birro, voltandosi al notaio.
 «Avete inteso?» disse questo a Renzo: «si farà così, se non vi levate subito subito, per venir con noi.»
 «E perché?» domandò Renzo.
@@ -187,19 +195,23 @@ Maledetto il mestiere! -
 Renzo era levato; i due satelliti gli stavano a' fianchi.
 Il notaio accennò a costoro che non lo sforzasser troppo, e disse a lui: «da bravo, figliuolo; a noi, spicciatevi».
 Anche Renzo sentiva, vedeva e pensava.
-Era ormai tutto vestito, salvo il farsetto, che teneva con una mano, frugando con l'altra nelle tasche. «Ohe!» disse, guardando il notaio, con un viso molto significante: «qui c'era de' soldi e una lettera.
+Era ormai tutto vestito, salvo il farsetto, che teneva con una mano, frugando con l'altra nelle tasche.
+«Ohe!» disse, guardando il notaio, con un viso molto significante: «qui c'era de' soldi e una lettera.
 Signor mio!»
 «Vi sarà dato ogni cosa puntualmente,» disse il notaio, «dopo adempite quelle poche formalità.
-Andiamo, andiamo.» «No, no, no,» disse Renzo, tentennando il capo: «questa non mi va: voglio la roba mia, signor mio.
+Andiamo, andiamo.»
+«No, no, no,» disse Renzo, tentennando il capo: «questa non mi va: voglio la roba mia, signor mio.
 Renderò conto delle mie azioni; ma voglio la roba mia.»
 «Voglio farvi vedere che mi fido di voi: tenete, e fate presto,» disse il notaio, levandosi di seno, e consegnando, con un sospiro, a Renzo le cose sequestrate.
-Questo, riponendole al loro posto, mormorava tra' denti: «alla larga! bazzicate tanto co' ladri, che avete un poco imparato il mestiere.» I birri non potevan più stare alle mosse; ma il notaio li teneva a freno con gli occhi, e diceva intanto tra sé: - se tu arrivi a metter piede dentro quella soglia, l'hai da pagar con usura, l'hai da pagare. -
+Questo, riponendole al loro posto, mormorava tra' denti: «alla larga! bazzicate tanto co' ladri, che avete un poco imparato il mestiere.»
+I birri non potevan più stare alle mosse; ma il notaio li teneva a freno con gli occhi, e diceva intanto tra sé: - se tu arrivi a metter piede dentro quella soglia, l'hai da pagar con usura, l'hai da pagare. -
 Mentre Renzo si metteva il farsetto, e prendeva il cappello, il notaio fece cenno a un de' birri, che s'avviasse per la scala; gli mandò dietro il prigioniero, poi l'altro amico; poi si mosse anche lui.
 In cucina che furono, mentre Renzo dice: «e quest'oste benedetto dove s'è cacciato?» il notaio fa un altro cenno a' birri; i quali afferrano, l'uno la destra, l'altro la sinistra del giovine, e in fretta in fretta gli legano i polsi con certi ordigni, per quell'ipocrita figura d'eufemismo, chiamati manichini.
 Consistevano questi (ci dispiace di dover discendere a particolari indegni della gravità storica; ma la chiarezza lo richiede), consistevano in una cordicella lunga un po' più che il giro d'un polso ordinario, la quale aveva nelle cime due pezzetti di legno, come due piccole stanghette.
 La cordicella circondava il polso del paziente; i legnetti, passati tra il medio e l'anulare del prenditore, gli rimanevano chiusi in pugno, di modo che, girandoli, ristringeva la legatura, a volontà; e con ciò aveva mezzo, non solo d'assicurare la presa, ma anche di martirizzare un ricalcitrante: e a questo fine, la cordicella era sparsa di nodi.
 Renzo si divincola, grida: «che tradimento è questo?
-A un galantuomo...!» Ma il notaio, che per ogni tristo fatto aveva le sue buone parole, «abbiate pazienza,» diceva: «fanno il loro dovere.
+A un galantuomo...!»
+Ma il notaio, che per ogni tristo fatto aveva le sue buone parole, «abbiate pazienza,» diceva: «fanno il loro dovere.
 Cosa volete? son tutte formalità; e anche noi non possiamo trattar la gente a seconda del nostro cuore.
 Se non si facesse quello che ci vien comandato, staremmo freschi noi altri, peggio di voi.
 Abbiate pazienza.»
@@ -212,7 +224,10 @@ Credete a me, che son pratico di queste cose: andate via diritto diritto, senza 
 Di qui a un'ora voi siete in libertà: c'è tanto da fare, che avranno fretta anche loro di sbrigarvi: e poi parlerò io...
 Ve n'andate per i fatti vostri; e nessuno saprà che siete stato nelle mani della giustizia.
 E voi altri,» continuò poi, voltandosi a' birri, con un viso severo: «guardate bene di non fargli male, perché lo proteggo io: il vostro dovere bisogna che lo facciate; ma ricordatevi che è un galantuomo, un giovine civile, il quale, di qui a poco, sarà in libertà; e che gli deve premere il suo onore.
-Andate in maniera che nessuno s'avveda di nulla: come se foste tre galantuomini che vanno a spasso.» E, con tono imperativo, e con sopracciglio minaccioso, concluse: «m'avete inteso.» Voltatosi poi a Renzo, col sopracciglio spianato, e col viso divenuto a un tratto ridente, che pareva volesse dire: oh noi sì che siamo amici!, gli bisbigliò di nuovo: «giudizio; fate a mio modo: andate raccolto e quieto; fidatevi di chi vi vuol bene: andiamo.» E la comitiva s'avviò.
+Andate in maniera che nessuno s'avveda di nulla: come se foste tre galantuomini che vanno a spasso.»
+E, con tono imperativo, e con sopracciglio minaccioso, concluse: «m'avete inteso.»
+Voltatosi poi a Renzo, col sopracciglio spianato, e col viso divenuto a un tratto ridente, che pareva volesse dire: oh noi sì che siamo amici!, gli bisbigliò di nuovo: «giudizio; fate a mio modo: andate raccolto e quieto; fidatevi di chi vi vuol bene: andiamo.»
+E la comitiva s'avviò.
 Però, di tante belle parole Renzo, non ne credette una: né che il notaio volesse più bene a lui che a' birri, né che prendesse tanto a cuore la sua riputazione, né che avesse intenzion d'aiutarlo: capì benissimo che il galantuomo, temendo che si presentasse per la strada qualche buona occasione di scappargli dalle mani, metteva innanzi que' bei motivi, per istornar lui dallo starci attento e da approfittarne.
 Dimodoché tutte quelle esortazioni non servirono ad altro che a confermarlo nel disegno che già aveva in testa, di far tutto il contrario.
 Nessuno concluda da ciò che il notaio fosse un furbo inesperto e novizio; perché s'ingannerebbe.
@@ -225,18 +240,22 @@ Di maniera che a uno che li veda ingegnarsi e arrabattarsi a quel modo, fanno pi
 Perciò non si può mai abbastanza raccomandare a' furbi di professione di conservar sempre il loro sangue freddo, o d'esser sempre i più forti, che è la più sicura.
 Renzo adunque, appena furono in istrada, cominciò a girar gli occhi in qua e in là, a sporgersi con la persona, a destra e a sinistra, a tender gli orecchi.
 Non c'era però concorso straordinario; e benché sul viso di più d'un passeggiero si potesse legger facilmente un certo non so che di sedizioso, pure ognuno andava diritto per la sua strada; e sedizione propriamente detta, non c'era.
-«Giudizio, giudizio!» gli susurrava il notaio dietro le spalle: «il vostro onore; l'onore, figliuolo.» Ma quando Renzo, badando attentamente a tre che venivano con visi accesi, sentì che parlavan d'un forno, di farina nascosta, di giustizia, cominciò anche a far loro de' cenni col viso, e a tossire in quel modo che indica tutt'altro che un raffreddore.
+«Giudizio, giudizio!» gli susurrava il notaio dietro le spalle: «il vostro onore; l'onore, figliuolo.»
+Ma quando Renzo, badando attentamente a tre che venivano con visi accesi, sentì che parlavan d'un forno, di farina nascosta, di giustizia, cominciò anche a far loro de' cenni col viso, e a tossire in quel modo che indica tutt'altro che un raffreddore.
 Quelli guardarono più attentamente la comitiva, e si fermarono; con loro si fermarono altri che arrivavano; altri, che gli eran passati davanti, voltatisi al bisbiglìo, tornavano indietro, e facevan coda.
 «Badate a voi; giudizio, figliuolo; peggio per voi vedete; non guastate i fatti vostri; l'onore, la riputazione,» continuava a susurrare il notaio.
 Renzo faceva peggio.
 I birri, dopo essersi consultati con l'occhio, pensando di far bene (ognuno è soggetto a sbagliare), gli diedero una stretta di manichini.
-«Ahi! ahi! ahi!» grida il tormentato: al grido, la gente s'affolla intorno; n'accorre da ogni parte della strada: la comitiva si trova incagliata. «È un malvivente,» bisbigliava il notaio a quelli che gli erano a ridosso: «è un ladro colto sul fatto.
-Si ritirino, lascin passar la giustizia.» Ma Renzo, visto il bel momento, visti i birri diventar bianchi, o almeno pallidi, - se non m'aiuto ora, pensò, mio danno. - E subito alzò la voce: «figliuoli! mi menano in prigione, perché ieri ho gridato: pane e giustizia.
+«Ahi! ahi! ahi!» grida il tormentato: al grido, la gente s'affolla intorno; n'accorre da ogni parte della strada: la comitiva si trova incagliata.
+«È un malvivente,» bisbigliava il notaio a quelli che gli erano a ridosso: «è un ladro colto sul fatto.
+Si ritirino, lascin passar la giustizia.»
+Ma Renzo, visto il bel momento, visti i birri diventar bianchi, o almeno pallidi, - se non m'aiuto ora, pensò, mio danno. - E subito alzò la voce: «figliuoli! mi menano in prigione, perché ieri ho gridato: pane e giustizia.
 Non ho fatto nulla; son galantuomo: aiutatemi, non m'abbandonate, figliuoli!»
 Un mormorìo favorevole, voci più chiare di protezione s'alzano in risposta: i birri sul principio comandano, poi chiedono, poi pregano i più vicini d'andarsene, e di far largo: la folla in vece incalza e pigia sempre più.
 Quelli, vista la mala parata, lascian andare i manichini, e non si curan più d'altro che di perdersi nella folla, per uscirne inosservati.
 Il notaio desiderava ardentemente di far lo stesso; ma c'era de' guai, per amor della cappa nera.
 Il pover'uomo, pallido e sbigottito, cercava di farsi piccino piccino, s'andava storcendo, per isgusciar fuor della folla; ma non poteva alzar gli occhi, che non se ne vedesse venti addosso.
 Studiava tutte le maniere di comparire un estraneo che, passando di lì a caso, si fosse trovato stretto nella calca, come una pagliucola nel ghiaccio; e riscontrandosi a viso a viso con uno che lo guardava fisso, con un cipiglio peggio degli altri, lui, composta la bocca al sorriso, con un suo fare sciocco, gli domandò: «cos'è stato?»
-«Uh corvaccio!» rispose colui. «Corvaccio! corvaccio!» risonò all'intorno.
+«Uh corvaccio!» rispose colui.
+«Corvaccio! corvaccio!» risonò all'intorno.
 Alle grida s'aggiunsero gli urtoni; di maniera che, in poco tempo, parte con le gambe proprie, parte con le gomita altrui, ottenne ciò che più gli premeva in quel momento, d'esser fuori di quel serra serra.

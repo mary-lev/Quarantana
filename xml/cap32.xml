@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <div><head>CAPITOLO XXXII</head>
-   <p><milestone unit="comma" n="1"/>
+   <p><milestone unit="comma" n="1" />
       <w xml:id="c32_10001">Divenendo</w>
       <w xml:id="c32_10002">sempre</w>
       <w xml:id="c32_10003">più</w>
@@ -28,7 +28,7 @@
       <w xml:id="c32_10025">aiuto</w>
       <w xml:id="c32_10026">al</w>
       <w xml:id="c32_10027">governatore.</w>
-      <milestone unit="comma" n="2"/><w xml:id="c32_10028">E,</w>
+      <milestone unit="comma" n="2" /><w xml:id="c32_10028">E,</w>
       <w xml:id="c32_10029">il</w>
       <w xml:id="c32_10030">22,</w>
       <w xml:id="c32_10031">furono</w>
@@ -176,7 +176,7 @@
       <w xml:id="c32_10173">rovinato</w>
       <w xml:id="c32_10174">dai</w>
       <w xml:id="c32_10175">passati.</w>
-      <milestone unit="comma" n="3"/>
+      <milestone unit="comma" n="3" />
       <w xml:id="c32_10176">Il</w>
       <w xml:id="c32_10177">governatore</w>
       <w xml:id="c32_10178">scrisse</w>
@@ -226,7 +226,7 @@
       <w xml:id="c32_10222">in</w>
       <w xml:id="c32_10223">ogni</w>
       <w xml:id="c32_10224">maniera.</w>
-      <milestone unit="comma" n="4"/><w xml:id="c32_10225">In</w>
+      <milestone unit="comma" n="4" /><w xml:id="c32_10225">In</w>
       <w xml:id="c32_10226">quanto</w>
       <w xml:id="c32_10227">alle</w>
       <w xml:id="c32_10228">richieste</w>
@@ -246,7 +246,7 @@
          <w xml:id="c32_10241">permitieren</w>
       </foreign>
       <w xml:id="c32_10242">.</w>
-      <milestone unit="comma" n="5"/><w xml:id="c32_10243">E</w>
+      <milestone unit="comma" n="5" /><w xml:id="c32_10243">E</w>
       <w xml:id="c32_10244">sotto,</w>
       <w xml:id="c32_10245">un</w>
       <w xml:id="c32_10246">girigogolo,</w>
@@ -260,7 +260,7 @@
       <w xml:id="c32_10254">le</w>
       <w xml:id="c32_10255">sue</w>
       <w xml:id="c32_10256">promesse.</w>
-      <milestone unit="comma" n="6"/>
+      <milestone unit="comma" n="6" />
       <w xml:id="c32_10257">Il</w>
       <w xml:id="c32_10258">gran</w>
       <w xml:id="c32_10259">cancelliere</w>
@@ -301,7 +301,7 @@
       <w xml:id="c32_10292">più</w>
       <w xml:id="c32_10293">strette</w>
       <w xml:id="c32_10294">conclusioni.</w>
-      <milestone unit="comma" n="7"/>
+      <milestone unit="comma" n="7" />
       <w xml:id="c32_10295">Qualche</w>
       <w xml:id="c32_10296">tempo</w>
       <w xml:id="c32_10297">dopo,</w>
@@ -329,7 +329,7 @@
       <w xml:id="c32_10319">pensare</w>
       <w xml:id="c32_10320">alla</w>
       <w xml:id="c32_10321">guerra.</w>
-      <milestone unit="comma" n="8"/><w xml:id="c32_10322">La</w>
+      <milestone unit="comma" n="8" /><w xml:id="c32_10322">La</w>
       <w xml:id="c32_10323">quale,</w>
       <w xml:id="c32_10324">sia</w>
       <w xml:id="c32_10325">detto</w>
@@ -412,7 +412,7 @@
       <w xml:id="c32_10402">era</w>
       <w xml:id="c32_10403">stata</w>
       <w xml:id="c32_10404">intrapresa.</w>
-      <milestone unit="comma" n="9"/>
+      <milestone unit="comma" n="9" />
       <w xml:id="c32_10405">Bisogna</w>
       <w xml:id="c32_10406">però</w>
       <w xml:id="c32_10407">dire</w>
@@ -482,7 +482,7 @@
       <w xml:id="c32_10471">furia</w>
       <w xml:id="c32_10472">di</w>
       <w xml:id="c32_10473">furberie.</w>
-   </p><p><milestone unit="comma" n="10"/>
+   </p><p><milestone unit="comma" n="10" />
       <w xml:id="c32_10474">Insieme</w>
       <w xml:id="c32_10475">con</w>
       <w xml:id="c32_10476">quella</w>
@@ -513,14 +513,14 @@
       <w xml:id="c32_10501">di</w>
       <w xml:id="c32_10502">San</w>
       <w xml:id="c32_10503">Carlo.</w>
-      <milestone unit="comma" n="11"/><w xml:id="c32_10504">Il</w>
+      <milestone unit="comma" n="11" /><w xml:id="c32_10504">Il</w>
       <w xml:id="c32_10505">buon</w>
       <w xml:id="c32_10506">prelato</w>
       <w xml:id="c32_10507">rifiutò,</w>
       <w xml:id="c32_10508">per</w>
       <w xml:id="c32_10509">molte</w>
       <w xml:id="c32_10510">ragioni.</w>
-      <milestone unit="comma" n="12"/><w xml:id="c32_10511">Gli</w>
+      <milestone unit="comma" n="12" /><w xml:id="c32_10511">Gli</w>
       <w xml:id="c32_10512">dispiaceva</w>
       <w xml:id="c32_10513">quella</w>
       <w xml:id="c32_10514">fiducia</w>
@@ -597,7 +597,7 @@
          <w xml:id="c32_10582">compilazione.</w>
       </note>
       <w xml:id="c32_10583">.</w>
-      <milestone unit="comma" n="13"/><w xml:id="c32_10584">Temeva</w>
+      <milestone unit="comma" n="13" /><w xml:id="c32_10584">Temeva</w>
       <w xml:id="c32_10585">di</w>
       <w xml:id="c32_10586">più,</w>
       <w xml:id="c32_10587">che,</w>
@@ -665,7 +665,7 @@
          </bibl>
       </note>
       <w xml:id="c32_10639">.</w>
-      <milestone unit="comma" n="14"/><w xml:id="c32_10640">Ché</w>
+      <milestone unit="comma" n="14" /><w xml:id="c32_10640">Ché</w>
       <w xml:id="c32_10641">il</w>
       <w xml:id="c32_10642">sospetto</w>
       <w xml:id="c32_10643">sopito</w>
@@ -681,7 +681,7 @@
       <w xml:id="c32_10653">furioso</w>
       <w xml:id="c32_10654">di</w>
       <w xml:id="c32_10655">prima.</w>
-   </p><p><milestone unit="comma" n="15"/>
+   </p><p><milestone unit="comma" n="15" />
       <w xml:id="c32_10656">S’era</w>
       <w xml:id="c32_10657">visto</w>
       <w xml:id="c32_10658">di</w>
@@ -702,7 +702,7 @@
       <w xml:id="c32_10673">di</w>
       <w xml:id="c32_10674">case,</w>
       <w xml:id="c32_10675">martelli.</w>
-      <milestone unit="comma" n="16"/><w xml:id="c32_10676">Le</w>
+      <milestone unit="comma" n="16" /><w xml:id="c32_10676">Le</w>
       <w xml:id="c32_10677">nuove</w>
       <w xml:id="c32_10678">di</w>
       <w xml:id="c32_10679">tali</w>
@@ -729,7 +729,7 @@
       <w xml:id="c32_10700">l’effetto</w>
       <w xml:id="c32_10701">del</w>
       <w xml:id="c32_10702">vedere.</w>
-      <milestone unit="comma" n="17"/><w xml:id="c32_10703">Gli</w>
+      <milestone unit="comma" n="17" /><w xml:id="c32_10703">Gli</w>
       <w xml:id="c32_10704">animi,</w>
       <w xml:id="c32_10705">sempre</w>
       <w xml:id="c32_10706">più</w>
@@ -818,7 +818,7 @@
       <w xml:id="c32_10785">fare</w>
       <w xml:id="c32_10786">che</w>
       <w xml:id="c32_10787">rassegnarsi.</w>
-      <milestone unit="comma" n="18"/>
+      <milestone unit="comma" n="18" />
       <w xml:id="c32_10788">Un</w>
       <w xml:id="c32_10789">veleno</w>
       <w xml:id="c32_10790">squisito,</w>
@@ -843,7 +843,7 @@
       <w xml:id="c32_10809">disordinati</w>
       <w xml:id="c32_10810">del</w>
       <w xml:id="c32_10811">morbo.</w>
-      <milestone unit="comma" n="19"/><w xml:id="c32_10812">Si</w>
+      <milestone unit="comma" n="19" /><w xml:id="c32_10812">Si</w>
       <w xml:id="c32_10813">diceva</w>
       <w xml:id="c32_10814">composto,</w>
       <w xml:id="c32_10815">quel</w>
@@ -874,7 +874,7 @@
       <w xml:id="c32_10840">sozzo</w>
       <w xml:id="c32_10841">e</w>
       <w xml:id="c32_10842">d’atroce.</w>
-      <milestone unit="comma" n="20"/><w xml:id="c32_10843">Vi</w>
+      <milestone unit="comma" n="20" /><w xml:id="c32_10843">Vi</w>
       <w xml:id="c32_10844">s’aggiunsero</w>
       <w xml:id="c32_10845">poi</w>
       <w xml:id="c32_10846">le</w>
@@ -895,7 +895,7 @@
       <w xml:id="c32_10861">scioglieva</w>
       <w xml:id="c32_10862">ogni</w>
       <w xml:id="c32_10863">difficoltà.</w>
-      <milestone unit="comma" n="21"/><w xml:id="c32_10864">Se</w>
+      <milestone unit="comma" n="21" /><w xml:id="c32_10864">Se</w>
       <w xml:id="c32_10865">gli</w>
       <w xml:id="c32_10866">effetti</w>
       <w xml:id="c32_10867">non</w>
@@ -931,7 +931,7 @@
       <w xml:id="c32_10897">accanite</w>
       <w xml:id="c32_10898">nell’infernale</w>
       <w xml:id="c32_10899">proposito.</w>
-      <milestone unit="comma" n="22"/>
+      <milestone unit="comma" n="22" />
       <w xml:id="c32_10900">Ormai</w>
       <w xml:id="c32_10901">chi</w>
       <w xml:id="c32_10902">avesse</w>
@@ -982,7 +982,7 @@
       <w xml:id="c32_10945">comune,</w>
       <w xml:id="c32_10946">solenne,</w>
       <w xml:id="c32_10947">tremendo.</w>
-      <milestone unit="comma" n="23"/><w xml:id="c32_10948">Con</w>
+      <milestone unit="comma" n="23" /><w xml:id="c32_10948">Con</w>
       <w xml:id="c32_10949">una</w>
       <w xml:id="c32_10950">tal</w>
       <w xml:id="c32_10951">persuasione</w>
@@ -1006,7 +1006,7 @@
       <w xml:id="c32_10969">poteva</w>
       <w xml:id="c32_10970">dar</w>
       <w xml:id="c32_10971">gelosia.</w>
-      <milestone unit="comma" n="24"/><w xml:id="c32_10972">E</w>
+      <milestone unit="comma" n="24" /><w xml:id="c32_10972">E</w>
       <w xml:id="c32_10973">la</w>
       <w xml:id="c32_10974">gelosia</w>
       <w xml:id="c32_10975">diveniva</w>
@@ -1015,7 +1015,7 @@
       <w xml:id="c32_10978">la</w>
       <w xml:id="c32_10979">certezza</w>
       <w xml:id="c32_10980">furore.</w>
-   </p><p><milestone unit="comma" n="25"/>
+   </p><p><milestone unit="comma" n="25" />
       <w xml:id="c32_10981">Due</w>
       <w xml:id="c32_10982">fatti</w>
       <w xml:id="c32_10983">ne</w>
@@ -1050,7 +1050,7 @@
       <w xml:id="c32_11010">pur</w>
       <w xml:id="c32_11011">troppo</w>
       <w xml:id="c32_11012">testimonio.</w>
-      <milestone unit="comma" n="26"/><w xml:id="c32_11013">Nella</w>
+      <milestone unit="comma" n="26" /><w xml:id="c32_11013">Nella</w>
       <w xml:id="c32_11014">chiesa</w>
       <w xml:id="c32_11015">di</w>
       <w xml:id="c32_11016">sant’Antonio,</w>
@@ -1083,7 +1083,7 @@
       <w xml:id="c32_11043">spolverò</w>
       <w xml:id="c32_11044">la</w>
       <w xml:id="c32_11045">panca.</w>
-      <w xml:id="c32_11046">«Quel</w>
+      <milestone unit="comma" n="27" /><w xml:id="c32_11046">«Quel</w>
       <w xml:id="c32_11047">vecchio</w>
       <w xml:id="c32_11048">unge</w>
       <w xml:id="c32_11049">le</w>
@@ -1097,7 +1097,7 @@
       <w xml:id="c32_11057">che</w>
       <w xml:id="c32_11058">vider</w>
       <w xml:id="c32_11059">l’atto.</w>
-      <milestone unit="comma" n="27"/><w xml:id="c32_11060">La</w>
+      <milestone unit="comma" n="28" /><w xml:id="c32_11060">La</w>
       <w xml:id="c32_11061">gente</w>
       <w xml:id="c32_11062">che</w>
       <w xml:id="c32_11063">si</w>
@@ -1178,7 +1178,7 @@
          <w xml:id="c32_11135">qualche</w>
          <w xml:id="c32_11136">momento.»</w>
       </quote>
-   </p><p><milestone unit="comma" n="28"/>
+   </p><p><milestone unit="comma" n="29" />
       <w xml:id="c32_11137">L’altro</w>
       <w xml:id="c32_11138">caso</w>
       <w xml:id="c32_11139">(e</w>
@@ -1193,7 +1193,7 @@
       <w xml:id="c32_11148">non</w>
       <w xml:id="c32_11149">ugualmente</w>
       <w xml:id="c32_11150">funesto.</w>
-      <milestone unit="comma" n="29"/><w xml:id="c32_11151">Tre</w>
+      <milestone unit="comma" n="30" /><w xml:id="c32_11151">Tre</w>
       <w xml:id="c32_11152">giovani</w>
       <w xml:id="c32_11153">compagni</w>
       <w xml:id="c32_11154">francesi,</w>
@@ -1232,7 +1232,7 @@
       <w xml:id="c32_11187">lì</w>
       <w xml:id="c32_11188">guardando</w>
       <w xml:id="c32_11189">attentamente.</w>
-      <milestone unit="comma" n="30"/><w xml:id="c32_11190">Uno</w>
+      <milestone unit="comma" n="31" /><w xml:id="c32_11190">Uno</w>
       <w xml:id="c32_11191">che</w>
       <w xml:id="c32_11192">passava,</w>
       <w xml:id="c32_11193">li</w>
@@ -1275,7 +1275,7 @@
       <w xml:id="c32_11230">peggio,</w>
       <w xml:id="c32_11231">di</w>
       <w xml:id="c32_11232">francesi.</w>
-      <milestone unit="comma" n="31"/><w xml:id="c32_11233">Come</w>
+      <milestone unit="comma" n="32" /><w xml:id="c32_11233">Come</w>
       <w xml:id="c32_11234">per</w>
       <w xml:id="c32_11235">accertarsi</w>
       <w xml:id="c32_11236">ch’era</w>
@@ -1286,8 +1286,8 @@
       <w xml:id="c32_11241">mano</w>
       <w xml:id="c32_11242">a</w>
       <w xml:id="c32_11243">toccare.</w>
-      <milestone unit="comma" n="32"/><w xml:id="c32_11244">Bastò.</w>
-      <milestone unit="comma" n="33"/><w xml:id="c32_11245">Furono</w>
+      <milestone unit="comma" n="33" /><w xml:id="c32_11244">Bastò.</w>
+      <milestone unit="comma" n="34" /><w xml:id="c32_11245">Furono</w>
       <w xml:id="c32_11246">circondati,</w>
       <w xml:id="c32_11247">afferrati,</w>
       <w xml:id="c32_11248">malmenati,</w>
@@ -1298,7 +1298,7 @@
       <w xml:id="c32_11253">percosse,</w>
       <w xml:id="c32_11254">alle</w>
       <w xml:id="c32_11255">carceri.</w>
-      <milestone unit="comma" n="34"/><w xml:id="c32_11256">Per</w>
+      <milestone unit="comma" n="35" /><w xml:id="c32_11256">Per</w>
       <w xml:id="c32_11257">buona</w>
       <w xml:id="c32_11258">sorte,</w>
       <w xml:id="c32_11259">il</w>
@@ -1322,7 +1322,7 @@
       <w xml:id="c32_11277">innocenti,</w>
       <w xml:id="c32_11278">e</w>
       <w xml:id="c32_11279">rilasciati.</w>
-   </p><p><milestone unit="comma" n="35"/>
+   </p><p><milestone unit="comma" n="36" />
       <w xml:id="c32_11280">Né</w>
       <w xml:id="c32_11281">tali</w>
       <w xml:id="c32_11282">cose</w>
@@ -1337,7 +1337,7 @@
       <w xml:id="c32_11291">come</w>
       <w xml:id="c32_11292">il</w>
       <w xml:id="c32_11293">contagio.</w>
-      <milestone unit="comma" n="36"/><w xml:id="c32_11294">Il</w>
+      <milestone unit="comma" n="37" /><w xml:id="c32_11294">Il</w>
       <w xml:id="c32_11295">viandante</w>
       <w xml:id="c32_11296">che</w>
       <w xml:id="c32_11297">fosse</w>
@@ -1416,13 +1416,13 @@
       <w xml:id="c32_11370">popolo,</w>
       <w xml:id="c32_11371">in</w>
       <w xml:id="c32_11372">prigione.</w>
-      <milestone unit="comma" n="37"/><w xml:id="c32_11373">Così</w>
+      <milestone unit="comma" n="38" /><w xml:id="c32_11373">Così</w>
       <w xml:id="c32_11374">il</w>
       <persName ref="#ripamonti">
          <w xml:id="c32_11375">Ripamonti</w>
       </persName>
       <w xml:id="c32_11376">medesimo.</w>
-      <milestone unit="comma" n="38"/><w xml:id="c32_11377">E</w>
+      <milestone unit="comma" n="39" /><w xml:id="c32_11377">E</w>
       <w xml:id="c32_11378">la</w>
       <w xml:id="c32_11379">prigione,</w>
       <w xml:id="c32_11380">fino</w>
@@ -1435,7 +1435,7 @@
       <w xml:id="c32_11387">porto</w>
       <w xml:id="c32_11388">di</w>
       <w xml:id="c32_11389">salvamento.</w>
-   </p><p><milestone unit="comma" n="39"/>
+   </p><p><milestone unit="comma" n="40" />
       <w xml:id="c32_11390">Ma</w>
       <w xml:id="c32_11391">i</w>
       <w xml:id="c32_11392">decurioni,</w>
@@ -1457,7 +1457,7 @@
       <w xml:id="c32_11408">pubblico</w>
       <w xml:id="c32_11409">secondava</w>
       <w xml:id="c32_11410">rumorosamente.</w>
-      <milestone unit="comma" n="40"/><w xml:id="c32_11411">Federigo</w>
+      <milestone unit="comma" n="41" /><w xml:id="c32_11411">Federigo</w>
       <w xml:id="c32_11412">resistette</w>
       <w xml:id="c32_11413">ancor</w>
       <w xml:id="c32_11414">qualche</w>
@@ -1483,7 +1483,7 @@
       <w xml:id="c32_11434">l’insistenza</w>
       <w xml:id="c32_11435">di</w>
       <w xml:id="c32_11436">molti.</w>
-      <milestone unit="comma" n="41"/><w xml:id="c32_11437">In</w>
+      <milestone unit="comma" n="42" /><w xml:id="c32_11437">In</w>
       <w xml:id="c32_11438">quello</w>
       <w xml:id="c32_11439">stato</w>
       <w xml:id="c32_11440">d’opinioni,</w>
@@ -1524,7 +1524,7 @@
       <w xml:id="c32_11475">cattive</w>
       <w xml:id="c32_11476">degli</w>
       <w xml:id="c32_11477">altri.</w>
-      <milestone unit="comma" n="42"/>
+      <milestone unit="comma" n="43" />
       <w xml:id="c32_11478">Se</w>
       <w xml:id="c32_11479">poi,</w>
       <w xml:id="c32_11480">nel</w>
@@ -1547,7 +1547,7 @@
       <w xml:id="c32_11497">del</w>
       <w xml:id="c32_11498">cuore</w>
       <w xml:id="c32_11499">umano.</w>
-      <milestone unit="comma" n="43"/><w xml:id="c32_11500">Certo,</w>
+      <milestone unit="comma" n="44" /><w xml:id="c32_11500">Certo,</w>
       <w xml:id="c32_11501">se</w>
       <w xml:id="c32_11502">in</w>
       <w xml:id="c32_11503">alcun</w>
@@ -1597,7 +1597,7 @@
       <w xml:id="c32_11547">di</w>
       <w xml:id="c32_11548">nessun</w>
       <w xml:id="c32_11549">genere.</w>
-      <milestone unit="comma" n="44"/><w xml:id="c32_11550">Al</w>
+      <milestone unit="comma" n="45" /><w xml:id="c32_11550">Al</w>
       <w xml:id="c32_11551">replicar</w>
       <w xml:id="c32_11552">dell’istanze,</w>
       <w xml:id="c32_11553">cedette</w>
@@ -1637,7 +1637,7 @@
       <w xml:id="c32_11587">maggiore</w>
       <w xml:id="c32_11588">del</w>
       <w xml:id="c32_11589">duomo.</w>
-   </p><p><milestone unit="comma" n="45"/>
+   </p><p><milestone unit="comma" n="46" />
       <w xml:id="c32_11590">Non</w>
       <w xml:id="c32_11591">trovo</w>
       <w xml:id="c32_11592">che</w>
@@ -1654,7 +1654,7 @@
       <w xml:id="c32_11603">di</w>
       <w xml:id="c32_11604">sorte</w>
       <w xml:id="c32_11605">alcuna.</w>
-      <milestone unit="comma" n="46"/><w xml:id="c32_11606">Soltanto,</w>
+      <milestone unit="comma" n="47" /><w xml:id="c32_11606">Soltanto,</w>
       <w xml:id="c32_11607">il</w>
       <w xml:id="c32_11608">tribunale</w>
       <w xml:id="c32_11609">suddetto</w>
@@ -1670,7 +1670,7 @@
       <w xml:id="c32_11619">indicavano</w>
       <w xml:id="c32_11620">il</w>
       <w xml:id="c32_11621">timore.</w>
-      <milestone unit="comma" n="47"/><w xml:id="c32_11622">Prescrisse</w>
+      <milestone unit="comma" n="48" /><w xml:id="c32_11622">Prescrisse</w>
       <w xml:id="c32_11623">più</w>
       <w xml:id="c32_11624">strette</w>
       <w xml:id="c32_11625">regole</w>
@@ -1758,7 +1758,7 @@
          </bibl>
       </note>
       <w xml:id="c32_11705">.</w>
-   </p><p><milestone unit="comma" n="48"/>
+   </p><p><milestone unit="comma" n="49" />
       <w xml:id="c32_11706">Tre</w>
       <w xml:id="c32_11707">giorni</w>
       <w xml:id="c32_11708">furono</w>
@@ -1778,7 +1778,7 @@
       <w xml:id="c32_11722">sull’alba,</w>
       <w xml:id="c32_11723">dal</w>
       <w xml:id="c32_11724">duomo.</w>
-      <milestone unit="comma" n="49"/><w xml:id="c32_11725">Andava</w>
+      <milestone unit="comma" n="50" /><w xml:id="c32_11725">Andava</w>
       <w xml:id="c32_11726">dinanzi</w>
       <w xml:id="c32_11727">una</w>
       <w xml:id="c32_11728">lunga</w>
@@ -1800,7 +1800,7 @@
       <w xml:id="c32_11744">vestite</w>
       <w xml:id="c32_11745">di</w>
       <w xml:id="c32_11746">sacco.</w>
-      <milestone unit="comma" n="50"/><w xml:id="c32_11747">Venivan</w>
+      <milestone unit="comma" n="51" /><w xml:id="c32_11747">Venivan</w>
       <w xml:id="c32_11748">poi</w>
       <w xml:id="c32_11749">l’arti,</w>
       <w xml:id="c32_11750">precedute</w>
@@ -1838,7 +1838,7 @@
       <w xml:id="c32_11782">torcetto</w>
       <w xml:id="c32_11783">in</w>
       <w xml:id="c32_11784">mano.</w>
-      <milestone unit="comma" n="51"/>
+      <milestone unit="comma" n="52" />
       <w xml:id="c32_11785">Nel</w>
       <w xml:id="c32_11786">mezzo,</w>
       <w xml:id="c32_11787">tra</w>
@@ -1875,7 +1875,7 @@
       <w xml:id="c32_11818">cambiavano</w>
       <w xml:id="c32_11819">ogni</w>
       <w xml:id="c32_11820">tanto.</w>
-      <milestone unit="comma" n="52"/><w xml:id="c32_11821">Dai</w>
+      <milestone unit="comma" n="53" /><w xml:id="c32_11821">Dai</w>
       <w xml:id="c32_11822">cristalli</w>
       <w xml:id="c32_11823">traspariva</w>
       <w xml:id="c32_11824">il</w>
@@ -1918,7 +1918,7 @@
       <w xml:id="c32_11861">onorato</w>
       <w xml:id="c32_11862">in</w>
       <w xml:id="c32_11863">vita.</w>
-      <milestone unit="comma" n="53"/>
+      <milestone unit="comma" n="54" />
       <w xml:id="c32_11864">Dietro</w>
       <w xml:id="c32_11865">la</w>
       <w xml:id="c32_11866">spoglia</w>
@@ -1958,7 +1958,7 @@
       <w xml:id="c32_11898">veniva</w>
       <w xml:id="c32_11899">l’arcivescovo</w>
       <w xml:id="c32_11900">Federigo.</w>
-      <milestone unit="comma" n="54"/><w xml:id="c32_11901">Seguiva</w>
+      <milestone unit="comma" n="55" /><w xml:id="c32_11901">Seguiva</w>
       <w xml:id="c32_11902">l’altra</w>
       <w xml:id="c32_11903">parte</w>
       <w xml:id="c32_11904">del</w>
@@ -2002,13 +2002,13 @@
       <w xml:id="c32_11942">tutti</w>
       <w xml:id="c32_11943">con</w>
       <w xml:id="c32_11944">torcetti.</w>
-      <milestone unit="comma" n="55"/><w xml:id="c32_11945">Finalmente</w>
+      <milestone unit="comma" n="56" /><w xml:id="c32_11945">Finalmente</w>
       <w xml:id="c32_11946">una</w>
       <w xml:id="c32_11947">coda</w>
       <w xml:id="c32_11948">d’altro</w>
       <w xml:id="c32_11949">popolo</w>
       <w xml:id="c32_11950">misto.</w>
-   </p><p><milestone unit="comma" n="56"/>
+   </p><p><milestone unit="comma" n="57" />
       <w xml:id="c32_11951">Tutta</w>
       <w xml:id="c32_11952">la</w>
       <w xml:id="c32_11953">strada</w>
@@ -2075,7 +2075,7 @@
       <w xml:id="c32_12014">per</w>
       <w xml:id="c32_12015">tutto</w>
       <w xml:id="c32_12016">lumi.</w>
-      <milestone unit="comma" n="57"/>
+      <milestone unit="comma" n="58" />
       <w xml:id="c32_12017">A</w>
       <w xml:id="c32_12018">molte</w>
       <w xml:id="c32_12019">di</w>
@@ -2092,7 +2092,7 @@
       <w xml:id="c32_12030">le</w>
       <w xml:id="c32_12031">loro</w>
       <w xml:id="c32_12032">preci.</w>
-      <milestone unit="comma" n="58"/><w xml:id="c32_12033">L’altre</w>
+      <milestone unit="comma" n="59" /><w xml:id="c32_12033">L’altre</w>
       <w xml:id="c32_12034">strade,</w>
       <w xml:id="c32_12035">mute,</w>
       <w xml:id="c32_12036">deserte;</w>
@@ -2134,7 +2134,7 @@
       <w xml:id="c32_12072">corteggio,</w>
       <w xml:id="c32_12073">qualche</w>
       <w xml:id="c32_12074">cosa.</w>
-   </p><p><milestone unit="comma" n="59"/>
+   </p><p><milestone unit="comma" n="60" />
       <w xml:id="c32_12075">La</w>
       <w xml:id="c32_12076">processione</w>
       <w xml:id="c32_12077">passò</w>
@@ -2213,7 +2213,7 @@
       <w xml:id="c32_12150">dopo</w>
       <w xml:id="c32_12151">il</w>
       <w xml:id="c32_12152">mezzogiorno.</w>
-   </p><p><milestone unit="comma" n="60"/>
+   </p><p><milestone unit="comma" n="61" />
       <w xml:id="c32_12153">Ed</w>
       <w xml:id="c32_12154">ecco</w>
       <w xml:id="c32_12155">che,</w>
@@ -2275,7 +2275,7 @@
       <w xml:id="c32_12211">nella</w>
       <w xml:id="c32_12212">processione</w>
       <w xml:id="c32_12213">medesima.</w>
-      <milestone unit="comma" n="61"/>
+      <milestone unit="comma" n="62" />
       <w xml:id="c32_12214">Ma,</w>
       <w xml:id="c32_12215">oh</w>
       <w xml:id="c32_12216">forze</w>
@@ -2322,7 +2322,7 @@
       <w xml:id="c32_12257">loro</w>
       <w xml:id="c32_12258">empio</w>
       <w xml:id="c32_12259">disegno.</w>
-      <milestone unit="comma" n="62"/><w xml:id="c32_12260">Si</w>
+      <milestone unit="comma" n="63" /><w xml:id="c32_12260">Si</w>
       <w xml:id="c32_12261">disse</w>
       <w xml:id="c32_12262">che,</w>
       <w xml:id="c32_12263">mescolati</w>
@@ -2337,7 +2337,7 @@
       <w xml:id="c32_12272">più</w>
       <w xml:id="c32_12273">avevan</w>
       <w xml:id="c32_12274">potuto.</w>
-      <milestone unit="comma" n="63"/>
+      <milestone unit="comma" n="64" />
       <w xml:id="c32_12275">Ma</w>
       <w xml:id="c32_12276">siccome</w>
       <w xml:id="c32_12277">questo</w>
@@ -2453,7 +2453,7 @@
       <w xml:id="c32_12387">in</w>
       <w xml:id="c32_12388">giro</w>
       <w xml:id="c32_12389">scalzi.</w>
-      <milestone unit="comma" n="64"/>
+      <milestone unit="comma" n="65" />
       <quote source="#pestilenzalampugnani">
          <w xml:id="c32_12390">«Vide</w>
          <w xml:id="c32_12391">pertanto,»</w>
@@ -2515,7 +2515,7 @@
       <w xml:id="c32_12440">creati</w>
       <w xml:id="c32_12441">da</w>
       <w xml:id="c32_12442">sé.</w>
-   </p><p><milestone unit="comma" n="65"/>
+   </p><p><milestone unit="comma" n="66" />
       <w xml:id="c32_12443">Da</w>
       <w xml:id="c32_12444">quel</w>
       <w xml:id="c32_12445">giorno,</w>
@@ -2571,7 +2571,7 @@
       <w xml:id="c32_12495">a</w>
       <w xml:id="c32_12496">sedici</w>
       <w xml:id="c32_12497">mila.</w>
-      <milestone unit="comma" n="66"/><w xml:id="c32_12498">Il</w>
+      <milestone unit="comma" n="67" /><w xml:id="c32_12498">Il</w>
       <w xml:id="c32_12499">4</w>
       <w xml:id="c32_12500">di</w>
       <w xml:id="c32_12501">luglio,</w>
@@ -2592,7 +2592,7 @@
       <w xml:id="c32_12516">oltrepassava</w>
       <w xml:id="c32_12517">i</w>
       <w xml:id="c32_12518">cinquecento.</w>
-      <milestone unit="comma" n="67"/>
+      <milestone unit="comma" n="68" />
       <w xml:id="c32_12519">Più</w>
       <w xml:id="c32_12520">innanzi,</w>
       <w xml:id="c32_12521">e</w>
@@ -2623,7 +2623,7 @@
          <w xml:id="c32_12545">Tadino</w>
       </persName>
       <w xml:id="c32_12546">.</w>
-      <milestone unit="comma" n="68"/><w xml:id="c32_12547">Il</w>
+      <milestone unit="comma" n="69" /><w xml:id="c32_12547">Il</w>
       <w xml:id="c32_12548">quale</w>
       <w xml:id="c32_12549">anche</w>
       <w xml:id="c32_12550">afferma</w>
@@ -2659,7 +2659,7 @@
       <w xml:id="c32_12578">dugento</w>
       <w xml:id="c32_12579">cinquanta</w>
       <w xml:id="c32_12580">mila.</w>
-      <milestone unit="comma" n="69"/><w xml:id="c32_12581">Secondo</w>
+      <milestone unit="comma" n="70" /><w xml:id="c32_12581">Secondo</w>
       <w xml:id="c32_12582">il</w>
       <persName ref="#ripamonti">
          <w xml:id="c32_12583">Ripamonti</w>
@@ -2691,7 +2691,7 @@
       <w xml:id="c32_12608">poté</w>
       <w xml:id="c32_12609">tener</w>
       <w xml:id="c32_12610">conto.</w>
-      <milestone unit="comma" n="70"/><w xml:id="c32_12611">Altri</w>
+      <milestone unit="comma" n="71" /><w xml:id="c32_12611">Altri</w>
       <w xml:id="c32_12612">dicon</w>
       <w xml:id="c32_12613">più</w>
       <w xml:id="c32_12614">o</w>
@@ -2701,7 +2701,7 @@
       <w xml:id="c32_12618">più</w>
       <w xml:id="c32_12619">a</w>
       <w xml:id="c32_12620">caso.</w>
-   </p><p><milestone unit="comma" n="71"/>
+   </p><p><milestone unit="comma" n="72" />
       <w xml:id="c32_12621">Si</w>
       <w xml:id="c32_12622">pensi</w>
       <w xml:id="c32_12623">ora</w>
@@ -2736,7 +2736,7 @@
       <w xml:id="c32_12652">un</w>
       <w xml:id="c32_12653">tal</w>
       <w xml:id="c32_12654">disastro.</w>
-      <milestone unit="comma" n="72"/><w xml:id="c32_12655">Bisognava</w>
+      <milestone unit="comma" n="73" /><w xml:id="c32_12655">Bisognava</w>
       <w xml:id="c32_12656">ogni</w>
       <w xml:id="c32_12657">giorno</w>
       <w xml:id="c32_12658">sostituire,</w>
@@ -2757,7 +2757,7 @@
       </hi>
       <w xml:id="c32_12670">,</w>
       <w xml:id="c32_12671">commissari.</w>
-      <milestone unit="comma" n="73"/><w xml:id="c32_12672">I</w>
+      <milestone unit="comma" n="74" /><w xml:id="c32_12672">I</w>
       <w xml:id="c32_12673">primi</w>
       <w xml:id="c32_12674">erano</w>
       <w xml:id="c32_12675">addetti</w>
@@ -2800,7 +2800,7 @@
       <w xml:id="c32_12712">infetta</w>
       <w xml:id="c32_12713">e</w>
       <w xml:id="c32_12714">sospetta.</w>
-      <milestone unit="comma" n="74"/>
+      <milestone unit="comma" n="75" />
       <w xml:id="c32_12715">Il</w>
       <w xml:id="c32_12716">nome,</w>
       <w xml:id="c32_12717">vuole</w>
@@ -2857,7 +2857,7 @@
       <w xml:id="c32_12758">e</w>
       <w xml:id="c32_12759">ne’</w>
       <w xml:id="c32_12760">Grigioni.</w>
-      <milestone unit="comma" n="75"/><w xml:id="c32_12761">Né</w>
+      <milestone unit="comma" n="76" /><w xml:id="c32_12761">Né</w>
       <w xml:id="c32_12762">sarebbe</w>
       <w xml:id="c32_12763">infatti</w>
       <w xml:id="c32_12764">assurdo</w>
@@ -2891,7 +2891,7 @@
       <w xml:id="c32_12790">mese</w>
       <w xml:id="c32_12791">in</w>
       <w xml:id="c32_12792">mese.</w>
-      <milestone unit="comma" n="76"/>
+      <milestone unit="comma" n="77" />
       <w xml:id="c32_12793">L’impiego</w>
       <w xml:id="c32_12794">speciale</w>
       <w xml:id="c32_12795">degli</w>
@@ -2911,7 +2911,7 @@
       <w xml:id="c32_12809">che</w>
       <w xml:id="c32_12810">si</w>
       <w xml:id="c32_12811">ritirassero.</w>
-      <milestone unit="comma" n="77"/><w xml:id="c32_12812">I</w>
+      <milestone unit="comma" n="78" /><w xml:id="c32_12812">I</w>
       <w xml:id="c32_12813">commissari</w>
       <w xml:id="c32_12814">regolavano</w>
       <w xml:id="c32_12815">gli</w>
@@ -2927,7 +2927,7 @@
       <w xml:id="c32_12825">tribunale</w>
       <w xml:id="c32_12826">della</w>
       <w xml:id="c32_12827">sanità.</w>
-      <milestone unit="comma" n="78"/><w xml:id="c32_12828">Bisognava</w>
+      <milestone unit="comma" n="79" /><w xml:id="c32_12828">Bisognava</w>
       <w xml:id="c32_12829">tener</w>
       <w xml:id="c32_12830">fornito</w>
       <w xml:id="c32_12831">il</w>
@@ -2958,7 +2958,7 @@
       <w xml:id="c32_12856">sopraggiungevano</w>
       <w xml:id="c32_12857">ogni</w>
       <w xml:id="c32_12858">giorno.</w>
-      <milestone unit="comma" n="79"/>
+      <milestone unit="comma" n="80" />
       <w xml:id="c32_12859">Si</w>
       <w xml:id="c32_12860">fecero</w>
       <w xml:id="c32_12861">a</w>
@@ -2996,7 +2996,7 @@
       <w xml:id="c32_12893">contener</w>
       <w xml:id="c32_12894">quattromila</w>
       <w xml:id="c32_12895">persone.</w>
-      <milestone unit="comma" n="80"/><w xml:id="c32_12896">E</w>
+      <milestone unit="comma" n="81" /><w xml:id="c32_12896">E</w>
       <w xml:id="c32_12897">non</w>
       <w xml:id="c32_12898">bastando,</w>
       <w xml:id="c32_12899">ne</w>
@@ -3019,7 +3019,7 @@
       <w xml:id="c32_12916">rimasero</w>
       <w xml:id="c32_12917">in</w>
       <w xml:id="c32_12918">tronco.</w>
-      <milestone unit="comma" n="81"/><w xml:id="c32_12919">I</w>
+      <milestone unit="comma" n="82" /><w xml:id="c32_12919">I</w>
       <w xml:id="c32_12920">mezzi,</w>
       <w xml:id="c32_12921">le</w>
       <w xml:id="c32_12922">persone,</w>
@@ -3034,7 +3034,7 @@
       <w xml:id="c32_12931">il</w>
       <w xml:id="c32_12932">bisogno</w>
       <w xml:id="c32_12933">cresceva.</w>
-   </p><p><milestone unit="comma" n="82"/>
+   </p><p><milestone unit="comma" n="83" />
       <w xml:id="c32_12934">E</w>
       <w xml:id="c32_12935">non</w>
       <w xml:id="c32_12936">solo</w>
@@ -3085,7 +3085,7 @@
       <w xml:id="c32_12981">in</w>
       <w xml:id="c32_12982">nessuna</w>
       <w xml:id="c32_12983">maniera.</w>
-      <milestone unit="comma" n="83"/><w xml:id="c32_12984">Moriva,</w>
+      <milestone unit="comma" n="84" /><w xml:id="c32_12984">Moriva,</w>
       <w xml:id="c32_12985">per</w>
       <w xml:id="c32_12986">esempio,</w>
       <w xml:id="c32_12987">d’abbandono</w>
@@ -3127,7 +3127,7 @@
       <w xml:id="c32_13023">poté</w>
       <w xml:id="c32_13024">ottener</w>
       <w xml:id="c32_13025">nulla.</w>
-      <milestone unit="comma" n="84"/>
+      <milestone unit="comma" n="85" />
       <quote source="#ragguaglio">
          <w xml:id="c32_13026">«Si</w>
          <w xml:id="c32_13027">doueua</w>
@@ -3192,12 +3192,12 @@
          <w xml:id="c32_13084">li</w>
          <w xml:id="c32_13085">Soldati.»</w>
       </quote>
-      <milestone unit="comma" n="85"/><w xml:id="c32_13086">Tanto</w>
+      <milestone unit="comma" n="86" /><w xml:id="c32_13086">Tanto</w>
       <w xml:id="c32_13087">importava</w>
       <w xml:id="c32_13088">il</w>
       <w xml:id="c32_13089">prender</w>
       <w xml:id="c32_13090">Casale!</w>
-      <milestone unit="comma" n="86"/><w xml:id="c32_13091">Tanto</w>
+      <milestone unit="comma" n="87" /><w xml:id="c32_13091">Tanto</w>
       <w xml:id="c32_13092">par</w>
       <w xml:id="c32_13093">bella</w>
       <w xml:id="c32_13094">la</w>
@@ -3213,7 +3213,7 @@
       <w xml:id="c32_13104">cui</w>
       <w xml:id="c32_13105">si</w>
       <w xml:id="c32_13106">combatta!</w>
-   </p><p><milestone unit="comma" n="87"/>
+   </p><p><milestone unit="comma" n="88" />
       <w xml:id="c32_13107">Così</w>
       <w xml:id="c32_13108">pure,</w>
       <w xml:id="c32_13109">trovandosi</w>
@@ -3274,7 +3274,7 @@
       <w xml:id="c32_13164">che</w>
       <w xml:id="c32_13165">partito</w>
       <w xml:id="c32_13166">prendere.</w>
-      <milestone unit="comma" n="88"/><w xml:id="c32_13167">Né</w>
+      <milestone unit="comma" n="89" /><w xml:id="c32_13167">Né</w>
       <w xml:id="c32_13168">si</w>
       <w xml:id="c32_13169">vede</w>
       <w xml:id="c32_13170">come</w>
@@ -3288,7 +3288,7 @@
       <w xml:id="c32_13178">un</w>
       <w xml:id="c32_13179">soccorso</w>
       <w xml:id="c32_13180">straordinario.</w>
-      <milestone unit="comma" n="89"/>
+      <milestone unit="comma" n="90" />
       <w xml:id="c32_13181">Il</w>
       <w xml:id="c32_13182">presidente</w>
       <w xml:id="c32_13183">della</w>
@@ -3349,7 +3349,7 @@
       <w xml:id="c32_13238">di</w>
       <w xml:id="c32_13239">peggio</w>
       <w xml:id="c32_13240">nell’avvenire.</w>
-      <milestone unit="comma" n="90"/><w xml:id="c32_13241">Con</w>
+      <milestone unit="comma" n="91" /><w xml:id="c32_13241">Con</w>
       <w xml:id="c32_13242">un</w>
       <w xml:id="c32_13243">frate</w>
       <w xml:id="c32_13244">compagno,</w>
@@ -3414,7 +3414,7 @@
       <w xml:id="c32_13303">si</w>
       <w xml:id="c32_13304">trovò</w>
       <w xml:id="c32_13305">adempita.</w>
-   </p><p><milestone unit="comma" n="91"/>
+   </p><p><milestone unit="comma" n="92" />
       <w xml:id="c32_13306">Una</w>
       <w xml:id="c32_13307">volta,</w>
       <w xml:id="c32_13308">il</w>
@@ -3444,7 +3444,7 @@
       <w xml:id="c32_13332">men</w>
       <w xml:id="c32_13333">del</w>
       <w xml:id="c32_13334">bisogno.</w>
-      <milestone unit="comma" n="92"/><w xml:id="c32_13335">Fu</w>
+      <milestone unit="comma" n="93" /><w xml:id="c32_13335">Fu</w>
       <w xml:id="c32_13336">spesso</w>
       <w xml:id="c32_13337">lì</w>
       <w xml:id="c32_13338">lì</w>
@@ -3584,7 +3584,7 @@
       <w xml:id="c32_13472">chiamati</w>
       <w xml:id="c32_13473">per</w>
       <w xml:id="c32_13474">impiego.</w>
-   </p><p><milestone unit="comma" n="93"/>
+   </p><p><milestone unit="comma" n="94" />
       <w xml:id="c32_13475">Più</w>
       <w xml:id="c32_13476">generale</w>
       <w xml:id="c32_13477">e</w>
@@ -3601,7 +3601,7 @@
       <w xml:id="c32_13488">fu</w>
       <w xml:id="c32_13489">negli</w>
       <w xml:id="c32_13490">ecclesiastici.</w>
-      <milestone unit="comma" n="94"/><w xml:id="c32_13491">Ai</w>
+      <milestone unit="comma" n="95" /><w xml:id="c32_13491">Ai</w>
       <w xml:id="c32_13492">lazzeretti,</w>
       <w xml:id="c32_13493">nella</w>
       <w xml:id="c32_13494">città,</w>
@@ -3648,7 +3648,7 @@
       <w xml:id="c32_13535">richiedessero</w>
       <w xml:id="c32_13536">le</w>
       <w xml:id="c32_13537">circostanze.</w>
-      <milestone unit="comma" n="95"/><w xml:id="c32_13538">Più</w>
+      <milestone unit="comma" n="96" /><w xml:id="c32_13538">Più</w>
       <w xml:id="c32_13539">di</w>
       <w xml:id="c32_13540">sessanta</w>
       <w xml:id="c32_13541">parrochi,</w>
@@ -3662,7 +3662,7 @@
       <w xml:id="c32_13549">otto</w>
       <w xml:id="c32_13550">noni,</w>
       <w xml:id="c32_13551">all’incirca.</w>
-   </p><p><milestone unit="comma" n="96"/>
+   </p><p><milestone unit="comma" n="97" />
       <w xml:id="c32_13552">Federigo</w>
       <w xml:id="c32_13553">dava</w>
       <w xml:id="c32_13554">a</w>
@@ -3675,7 +3675,7 @@
       <w xml:id="c32_13561">incitamento</w>
       <w xml:id="c32_13562">ed</w>
       <w xml:id="c32_13563">esempio.</w>
-      <milestone unit="comma" n="97"/><w xml:id="c32_13564">Mortagli</w>
+      <milestone unit="comma" n="98" /><w xml:id="c32_13564">Mortagli</w>
       <w xml:id="c32_13565">intorno</w>
       <w xml:id="c32_13566">quasi</w>
       <w xml:id="c32_13567">tutta</w>
@@ -3756,7 +3756,7 @@
          </bibl>
       </note>
       <w xml:id="c32_13640">.»</w>
-      <milestone unit="comma" n="98"/>
+      <milestone unit="comma" n="99" />
       <w xml:id="c32_13641">Non</w>
       <w xml:id="c32_13642">trascurò</w>
       <w xml:id="c32_13643">quelle</w>
@@ -3799,7 +3799,7 @@
       <w xml:id="c32_13680">passar</w>
       <w xml:id="c32_13681">per</w>
       <w xml:id="c32_13682">quello.</w>
-      <milestone unit="comma" n="99"/><w xml:id="c32_13683">Senza</w>
+      <milestone unit="comma" n="100" /><w xml:id="c32_13683">Senza</w>
       <w xml:id="c32_13684">parlare</w>
       <w xml:id="c32_13685">degli</w>
       <w xml:id="c32_13686">ecclesiastici,</w>
@@ -3842,7 +3842,7 @@
       <w xml:id="c32_13723">bisogno</w>
       <w xml:id="c32_13724">di</w>
       <w xml:id="c32_13725">lui.</w>
-      <milestone unit="comma" n="100"/>
+      <milestone unit="comma" n="101" />
       <w xml:id="c32_13726">Visitava</w>
       <w xml:id="c32_13727">i</w>
       <w xml:id="c32_13728">lazzeretti,</w>
@@ -3886,7 +3886,7 @@
       <w xml:id="c32_13766">e</w>
       <w xml:id="c32_13767">di</w>
       <w xml:id="c32_13768">coraggio.</w>
-      <milestone unit="comma" n="101"/><w xml:id="c32_13769">Si</w>
+      <milestone unit="comma" n="102" /><w xml:id="c32_13769">Si</w>
       <w xml:id="c32_13770">cacciò</w>
       <w xml:id="c32_13771">in</w>
       <w xml:id="c32_13772">somma</w>
@@ -3904,7 +3904,7 @@
       <w xml:id="c32_13784">d’esserne</w>
       <w xml:id="c32_13785">uscito</w>
       <w xml:id="c32_13786">illeso.</w>
-   </p><p><milestone unit="comma" n="102"/>
+   </p><p><milestone unit="comma" n="103" />
       <w xml:id="c32_13787">Così,</w>
       <w xml:id="c32_13788">ne’</w>
       <w xml:id="c32_13789">pubblici</w>
@@ -3945,12 +3945,12 @@
       <w xml:id="c32_13824">generale,</w>
       <w xml:id="c32_13825">di</w>
       <w xml:id="c32_13826">perversità.</w>
-      <milestone unit="comma" n="103"/><w xml:id="c32_13827">E</w>
+      <milestone unit="comma" n="104" /><w xml:id="c32_13827">E</w>
       <w xml:id="c32_13828">questo</w>
       <w xml:id="c32_13829">pure</w>
       <w xml:id="c32_13830">fu</w>
       <w xml:id="c32_13831">segnalato.</w>
-      <milestone unit="comma" n="104"/><w xml:id="c32_13832">I</w>
+      <milestone unit="comma" n="105" /><w xml:id="c32_13832">I</w>
       <w xml:id="c32_13833">birboni</w>
       <w xml:id="c32_13834">che</w>
       <w xml:id="c32_13835">la</w>
@@ -3980,7 +3980,7 @@
       <w xml:id="c32_13859">a</w>
       <w xml:id="c32_13860">un</w>
       <w xml:id="c32_13861">tempo.</w>
-      <milestone unit="comma" n="105"/><w xml:id="c32_13862">Che</w>
+      <milestone unit="comma" n="106" /><w xml:id="c32_13862">Che</w>
       <w xml:id="c32_13863">anzi,</w>
       <w xml:id="c32_13864">l’uso</w>
       <w xml:id="c32_13865">della</w>
@@ -3999,7 +3999,7 @@
       <w xml:id="c32_13878">peggiori</w>
       <w xml:id="c32_13879">tra</w>
       <w xml:id="c32_13880">loro.</w>
-      <milestone unit="comma" n="106"/>
+      <milestone unit="comma" n="107" />
       <w xml:id="c32_13881">All’impiego</w>
       <w xml:id="c32_13882">di</w>
       <w xml:id="c32_13883">monatti</w>
@@ -4029,7 +4029,7 @@
       <w xml:id="c32_13907">ogni</w>
       <w xml:id="c32_13908">naturale</w>
       <w xml:id="c32_13909">ribrezzo.</w>
-      <milestone unit="comma" n="107"/><w xml:id="c32_13910">Erano</w>
+      <milestone unit="comma" n="108" /><w xml:id="c32_13910">Erano</w>
       <w xml:id="c32_13911">a</w>
       <w xml:id="c32_13912">costoro</w>
       <w xml:id="c32_13913">prescritte</w>
@@ -4071,7 +4071,7 @@
       <w xml:id="c32_13949">di</w>
       <w xml:id="c32_13950">buon</w>
       <w xml:id="c32_13951">governo.</w>
-      <milestone unit="comma" n="108"/>
+      <milestone unit="comma" n="109" />
       <w xml:id="c32_13952">Un</w>
       <w xml:id="c32_13953">tal</w>
       <w xml:id="c32_13954">ordin</w>
@@ -4128,7 +4128,7 @@
       <w xml:id="c32_14005">arbitri</w>
       <w xml:id="c32_14006">d’ogni</w>
       <w xml:id="c32_14007">cosa.</w>
-      <milestone unit="comma" n="109"/><w xml:id="c32_14008">Entravano</w>
+      <milestone unit="comma" n="110" /><w xml:id="c32_14008">Entravano</w>
       <w xml:id="c32_14009">da</w>
       <w xml:id="c32_14010">padroni,</w>
       <w xml:id="c32_14011">da</w>
@@ -4180,7 +4180,7 @@
       <w xml:id="c32_14057">riscattati</w>
       <w xml:id="c32_14058">con</w>
       <w xml:id="c32_14059">danari.</w>
-      <milestone unit="comma" n="110"/>
+      <milestone unit="comma" n="111" />
       <w xml:id="c32_14060">Altre</w>
       <w xml:id="c32_14061">volte,</w>
       <w xml:id="c32_14062">mettevano</w>
@@ -4202,7 +4202,7 @@
       <w xml:id="c32_14078">di</w>
       <w xml:id="c32_14079">tanti</w>
       <w xml:id="c32_14080">scudi.</w>
-      <milestone unit="comma" n="111"/><w xml:id="c32_14081">Si</w>
+      <milestone unit="comma" n="112" /><w xml:id="c32_14081">Si</w>
       <w xml:id="c32_14082">disse</w>
       <w xml:id="c32_14083">(e</w>
       <w xml:id="c32_14084">tra</w>
@@ -4265,7 +4265,7 @@
       <w xml:id="c32_14135">regno,</w>
       <w xml:id="c32_14136">una</w>
       <w xml:id="c32_14137">festa.</w>
-      <milestone unit="comma" n="112"/>
+      <milestone unit="comma" n="113" />
       <w xml:id="c32_14138">Altri</w>
       <w xml:id="c32_14139">sciagurati,</w>
       <w xml:id="c32_14140">fingendosi</w>
@@ -4298,7 +4298,7 @@
       <w xml:id="c32_14167">tutte</w>
       <w xml:id="c32_14168">le</w>
       <w xml:id="c32_14169">sorte.</w>
-      <milestone unit="comma" n="113"/><w xml:id="c32_14170">In</w>
+      <milestone unit="comma" n="114" /><w xml:id="c32_14170">In</w>
       <w xml:id="c32_14171">alcune,</w>
       <w xml:id="c32_14172">aperte</w>
       <w xml:id="c32_14173">e</w>
@@ -4334,7 +4334,7 @@
       <w xml:id="c32_14203">anche</w>
       <w xml:id="c32_14204">cose</w>
       <w xml:id="c32_14205">peggiori.</w>
-      <milestone unit="comma" n="114"/>
+      <milestone unit="comma" n="115" />
       <w xml:id="c32_14206">Del</w>
       <w xml:id="c32_14207">pari</w>
       <w xml:id="c32_14208">con</w>
@@ -4368,7 +4368,7 @@
       <w xml:id="c32_14236">e</w>
       <w xml:id="c32_14237">più</w>
       <w xml:id="c32_14238">vasti.</w>
-      <milestone unit="comma" n="115"/><w xml:id="c32_14239">E</w>
+      <milestone unit="comma" n="116" /><w xml:id="c32_14239">E</w>
       <w xml:id="c32_14240">tutti</w>
       <w xml:id="c32_14241">servirono</w>
       <w xml:id="c32_14242">a</w>
@@ -4395,7 +4395,7 @@
       <w xml:id="c32_14263">veduto,</w>
       <w xml:id="c32_14264">un’altra</w>
       <w xml:id="c32_14265">perversità.</w>
-      <milestone unit="comma" n="116"/>
+      <milestone unit="comma" n="117" />
       <w xml:id="c32_14266">L’immagine</w>
       <w xml:id="c32_14267">di</w>
       <w xml:id="c32_14268">quel</w>
@@ -4514,7 +4514,7 @@
          <w xml:id="c32_14378">di</w>
          <w xml:id="c32_14379">venefizio.»</w>
       </quote>
-   </p><p><milestone unit="comma" n="117"/>
+   </p><p><milestone unit="comma" n="118" />
       <w xml:id="c32_14380">La</w>
       <w xml:id="c32_14381">vastità</w>
       <w xml:id="c32_14382">immaginata,</w>
@@ -4533,7 +4533,7 @@
       <w xml:id="c32_14395">della</w>
       <w xml:id="c32_14396">fiducia</w>
       <w xml:id="c32_14397">reciproca.</w>
-      <milestone unit="comma" n="118"/><w xml:id="c32_14398">Da</w>
+      <milestone unit="comma" n="119" /><w xml:id="c32_14398">Da</w>
       <w xml:id="c32_14399">principio,</w>
       <w xml:id="c32_14400">si</w>
       <w xml:id="c32_14401">credeva</w>
@@ -4570,7 +4570,7 @@
       <w xml:id="c32_14432">dominasse</w>
       <w xml:id="c32_14433">le</w>
       <w xml:id="c32_14434">volontà.</w>
-      <milestone unit="comma" n="119"/><w xml:id="c32_14435">I</w>
+      <milestone unit="comma" n="120" /><w xml:id="c32_14435">I</w>
       <w xml:id="c32_14436">vaneggiamenti</w>
       <w xml:id="c32_14437">degl’infermi</w>
       <w xml:id="c32_14438">che</w>
@@ -4595,7 +4595,7 @@
       <w xml:id="c32_14457">così,</w>
       <w xml:id="c32_14458">credibile</w>
       <w xml:id="c32_14459">d’ognuno.</w>
-      <milestone unit="comma" n="120"/>
+      <milestone unit="comma" n="121" />
       <w xml:id="c32_14460">E</w>
       <w xml:id="c32_14461">più</w>
       <w xml:id="c32_14462">delle</w>
@@ -4642,7 +4642,7 @@
       <w xml:id="c32_14503">di</w>
       <w xml:id="c32_14504">molti</w>
       <w xml:id="c32_14505">scrittori.</w>
-      <milestone unit="comma" n="121"/><w xml:id="c32_14506">Così,</w>
+      <milestone unit="comma" n="122" /><w xml:id="c32_14506">Così,</w>
       <w xml:id="c32_14507">nel</w>
       <w xml:id="c32_14508">lungo</w>
       <w xml:id="c32_14509">e</w>
@@ -4730,7 +4730,7 @@
       <w xml:id="c32_14591">creda</w>
       <w xml:id="c32_14592">di</w>
       <w xml:id="c32_14593">farla.</w>
-   </p><p><milestone unit="comma" n="122"/>
+   </p><p><milestone unit="comma" n="123" />
       <w xml:id="c32_14594">Tra</w>
       <w xml:id="c32_14595">le</w>
       <w xml:id="c32_14596">storie</w>
@@ -4758,7 +4758,7 @@
       <w xml:id="c32_14618">giro</w>
       <w xml:id="c32_14619">che</w>
       <w xml:id="c32_14620">fece.</w>
-      <milestone unit="comma" n="123"/><w xml:id="c32_14621">Si</w>
+      <milestone unit="comma" n="124" /><w xml:id="c32_14621">Si</w>
       <w xml:id="c32_14622">raccontava,</w>
       <w xml:id="c32_14623">non</w>
       <w xml:id="c32_14624">da</w>
@@ -4821,7 +4821,7 @@
       <w xml:id="c32_14681">atteggiato</w>
       <w xml:id="c32_14682">di</w>
       <w xml:id="c32_14683">minaccia.</w>
-      <milestone unit="comma" n="124"/><w xml:id="c32_14684">Mentre</w>
+      <milestone unit="comma" n="125" /><w xml:id="c32_14684">Mentre</w>
       <w xml:id="c32_14685">quel</w>
       <w xml:id="c32_14686">tale</w>
       <w xml:id="c32_14687">stava</w>
@@ -4847,7 +4847,7 @@
       <w xml:id="c32_14707">dir</w>
       <w xml:id="c32_14708">di</w>
       <w xml:id="c32_14709">no.</w>
-      <milestone unit="comma" n="125"/>
+      <milestone unit="comma" n="126" />
       <w xml:id="c32_14710">Dopo</w>
       <w xml:id="c32_14711">diversi</w>
       <w xml:id="c32_14712">rigiri,</w>
@@ -4883,7 +4883,7 @@
       <w xml:id="c32_14742">sedute</w>
       <w xml:id="c32_14743">a</w>
       <w xml:id="c32_14744">consiglio.</w>
-      <milestone unit="comma" n="126"/><w xml:id="c32_14745">Finalmente,</w>
+      <milestone unit="comma" n="127" /><w xml:id="c32_14745">Finalmente,</w>
       <w xml:id="c32_14746">gli</w>
       <w xml:id="c32_14747">erano</w>
       <w xml:id="c32_14748">state</w>
@@ -4918,7 +4918,7 @@
       <w xml:id="c32_14777">per</w>
       <w xml:id="c32_14778">la</w>
       <w xml:id="c32_14779">città.</w>
-      <milestone unit="comma" n="127"/><w xml:id="c32_14780">Ma,</w>
+      <milestone unit="comma" n="128" /><w xml:id="c32_14780">Ma,</w>
       <w xml:id="c32_14781">non</w>
       <w xml:id="c32_14782">avendo</w>
       <w xml:id="c32_14783">voluto</w>
@@ -4936,7 +4936,7 @@
       <w xml:id="c32_14795">era</w>
       <w xml:id="c32_14796">stato</w>
       <w xml:id="c32_14797">preso.</w>
-      <milestone unit="comma" n="128"/>
+      <milestone unit="comma" n="129" />
       <w xml:id="c32_14798">Questa</w>
       <w xml:id="c32_14799">storia,</w>
       <w xml:id="c32_14800">creduta</w>
@@ -4986,7 +4986,7 @@
       <w xml:id="c32_14836">Italia</w>
       <w xml:id="c32_14837">e</w>
       <w xml:id="c32_14838">fuori.</w>
-      <milestone unit="comma" n="129"/><w xml:id="c32_14839">In</w>
+      <milestone unit="comma" n="130" /><w xml:id="c32_14839">In</w>
       <w xml:id="c32_14840">Germania</w>
       <w xml:id="c32_14841">se</w>
       <w xml:id="c32_14842">ne</w>
@@ -5021,7 +5021,7 @@
       <w xml:id="c32_14871">risposta</w>
       <w xml:id="c32_14872">ch’eran</w>
       <w xml:id="c32_14873">sogni.</w>
-   </p><p><milestone unit="comma" n="130"/>
+   </p><p><milestone unit="comma" n="131" />
       <w xml:id="c32_14874">D’ugual</w>
       <w xml:id="c32_14875">valore,</w>
       <w xml:id="c32_14876">se</w>
@@ -5042,7 +5042,7 @@
       <w xml:id="c32_14891">n’eran</w>
       <w xml:id="c32_14892">gli</w>
       <w xml:id="c32_14893">effetti.</w>
-      <milestone unit="comma" n="131"/><w xml:id="c32_14894">Vedevano,</w>
+      <milestone unit="comma" n="132" /><w xml:id="c32_14894">Vedevano,</w>
       <w xml:id="c32_14895">la</w>
       <w xml:id="c32_14896">più</w>
       <w xml:id="c32_14897">parte</w>
@@ -5126,7 +5126,7 @@
       <w xml:id="c32_14967">bocche</w>
       <w xml:id="c32_14968">di</w>
       <w xml:id="c32_14969">tutti.</w>
-      <milestone unit="comma" n="132"/>
+      <milestone unit="comma" n="133" />
       <w xml:id="c32_14970">Un’altra</w>
       <w xml:id="c32_14971">cometa,</w>
       <w xml:id="c32_14972">apparsa</w>
@@ -5148,7 +5148,7 @@
       <w xml:id="c32_14988">prova</w>
       <w xml:id="c32_14989">manifesta</w>
       <w xml:id="c32_14990">dell’unzioni.</w>
-      <milestone unit="comma" n="133"/><w xml:id="c32_14991">Pescavan</w>
+      <milestone unit="comma" n="134" /><w xml:id="c32_14991">Pescavan</w>
       <w xml:id="c32_14992">ne’</w>
       <w xml:id="c32_14993">libri,</w>
       <w xml:id="c32_14994">e</w>
@@ -5170,7 +5170,7 @@
       <w xml:id="c32_15010">Dione,</w>
       <w xml:id="c32_15011">che</w>
       <w xml:id="c32_15012">dico?</w>
-      <milestone unit="comma" n="134"/><w xml:id="c32_15013">Omero</w>
+      <milestone unit="comma" n="135" /><w xml:id="c32_15013">Omero</w>
       <w xml:id="c32_15014">e</w>
       <w xml:id="c32_15015">Ovidio,</w>
       <w xml:id="c32_15016">i</w>
@@ -5192,7 +5192,7 @@
       <w xml:id="c32_15032">più</w>
       <w xml:id="c32_15033">in</w>
       <w xml:id="c32_15034">abbondanza.</w>
-      <milestone unit="comma" n="135"/>
+      <milestone unit="comma" n="136" />
       <w xml:id="c32_15035">Citavano</w>
       <w xml:id="c32_15036">cent’altri</w>
       <w xml:id="c32_15037">autori</w>
@@ -5329,7 +5329,7 @@
       <w xml:id="c32_15158">non</w>
       <w xml:id="c32_15159">interrotte</w>
       <w xml:id="c32_15160">carnificine.</w>
-   </p><p><milestone unit="comma" n="136"/>
+   </p><p><milestone unit="comma" n="137" />
       <w xml:id="c32_15161">Da’</w>
       <w xml:id="c32_15162">trovati</w>
       <w xml:id="c32_15163">del</w>
@@ -5377,7 +5377,7 @@
       <w xml:id="c32_15205">di</w>
       <w xml:id="c32_15206">pubblica</w>
       <w xml:id="c32_15207">follia.</w>
-   </p><p><milestone unit="comma" n="137"/>
+   </p><p><milestone unit="comma" n="138" />
       <w xml:id="c32_15208">Ma</w>
       <w xml:id="c32_15209">ciò</w>
       <w xml:id="c32_15210">che</w>
@@ -5573,7 +5573,7 @@
          </bibl>
          <w xml:id="c32_15394">.</w>
       </note>
-   </p><p><milestone unit="comma" n="138"/>
+   </p><p><milestone unit="comma" n="139" />
       <w xml:id="c32_15395">Se</w>
       <w xml:id="c32_15396">fosse</w>
       <w xml:id="c32_15397">stato</w>
@@ -5635,7 +5635,7 @@
       <w xml:id="c32_15453">getti</w>
       <w xml:id="c32_15454">a</w>
       <w xml:id="c32_15455">traverso.</w>
-      <milestone unit="comma" n="139"/><w xml:id="c32_15456">Del</w>
+      <milestone unit="comma" n="140" /><w xml:id="c32_15456">Del</w>
       <w xml:id="c32_15457">resto,</w>
       <w xml:id="c32_15458">quel</w>
       <persName ref="#tadino">
@@ -5651,7 +5651,7 @@
       <w xml:id="c32_15467">del</w>
       <w xml:id="c32_15468">suo</w>
       <w xml:id="c32_15469">tempo.</w>
-   </p><p><milestone unit="comma" n="140"/>
+   </p><p><milestone unit="comma" n="141" />
       <w xml:id="c32_15470">Due</w>
       <w xml:id="c32_15471">illustri</w>
       <w xml:id="c32_15472">e</w>
@@ -5690,7 +5690,7 @@
          </bibl>
       </note>
       <w xml:id="c32_15501">.</w>
-      <milestone unit="comma" n="141"/><w xml:id="c32_15502">Noi</w>
+      <milestone unit="comma" n="142" /><w xml:id="c32_15502">Noi</w>
       <w xml:id="c32_15503">vorremmo</w>
       <w xml:id="c32_15504">poter</w>
       <w xml:id="c32_15505">dare</w>
@@ -5744,7 +5744,7 @@
       <w xml:id="c32_15553">menti</w>
       <w xml:id="c32_15554">più</w>
       <w xml:id="c32_15555">nobili.</w>
-      <milestone unit="comma" n="142"/>
+      <milestone unit="comma" n="143" />
       <w xml:id="c32_15556">S’è</w>
       <w xml:id="c32_15557">visto,</w>
       <w xml:id="c32_15558">almeno</w>
@@ -5808,7 +5808,7 @@
       <w xml:id="c32_15614">fosse</w>
       <w xml:id="c32_15615">di</w>
       <w xml:id="c32_15616">vero.</w>
-      <milestone unit="comma" n="143"/>
+      <milestone unit="comma" n="144" />
       <w xml:id="c32_15617">Nella</w>
       <w xml:id="c32_15618">biblioteca</w>
       <w xml:id="c32_15619">ambrosiana</w>
@@ -5834,7 +5834,7 @@
       <w xml:id="c32_15639">volta</w>
       <w xml:id="c32_15640">enunciato</w>
       <w xml:id="c32_15641">espressamente.</w>
-      <w xml:id="c32_15642">«Era</w>
+      <milestone unit="comma" n="145" /><w xml:id="c32_15642">«Era</w>
       <w xml:id="c32_15643">opinion</w>
       <w xml:id="c32_15644">comune,»</w>
       <w xml:id="c32_15645">dice</w>
@@ -5869,11 +5869,11 @@
       <w xml:id="c32_15674">vere,</w>
       <w xml:id="c32_15675">altre</w>
       <w xml:id="c32_15676">inventate.»</w>
-      <w xml:id="c32_15677">Ecco</w>
+      <milestone unit="comma" n="146" /><w xml:id="c32_15677">Ecco</w>
       <w xml:id="c32_15678">le</w>
       <w xml:id="c32_15679">sue</w>
       <w xml:id="c32_15680">parole:</w>
-      </p><p><milestone unit="comma" n="144"/><foreign rend="italic" xml:lang="lat">
+      </p><p><milestone unit="comma" n="147" /><foreign rend="italic" xml:lang="lat">
          <w xml:id="c32_15681">Unguenta</w>
          <w xml:id="c32_15682">uero</w>
          <w xml:id="c32_15683">haec</w>
@@ -5899,7 +5899,7 @@
          <w xml:id="c32_15703">fuisse</w>
          <w xml:id="c32_15704">comentitiasque</w>
          <w xml:id="c32_15705">arbitramur.</w>
-         <lb/>
+         <lb />
          <w xml:id="c32_15706">De</w>
          <w xml:id="c32_15707">pestilentia</w>
          <w xml:id="c32_15708">quae</w>
@@ -5910,7 +5910,7 @@
          <w xml:id="c32_15713">stragem</w>
          <w xml:id="c32_15714">edidit.</w>
       </foreign>
-   </p><p><milestone unit="comma" n="145"/>
+   </p><p><milestone unit="comma" n="148" />
       <w xml:id="c32_15715">Ci</w>
       <w xml:id="c32_15716">furon</w>
       <w xml:id="c32_15717">però</w>
@@ -5993,7 +5993,7 @@
       <w xml:id="c32_15794">notizia</w>
       <w xml:id="c32_15795">per</w>
       <w xml:id="c32_15796">tradizione.</w>
-      <milestone unit="comma" n="146"/>
+      <milestone unit="comma" n="149" />
       <quote source="#delgovernopeste">
          <w xml:id="c32_15797">«Ho</w>
          <w xml:id="c32_15798">trovato</w>
@@ -6033,7 +6033,7 @@
          <w xml:id="c32_15830">unti</w>
          <w xml:id="c32_15831">velenosi.»</w>
       </quote>
-      <milestone unit="comma" n="147"/><w xml:id="c32_15832">Si</w>
+      <milestone unit="comma" n="150" /><w xml:id="c32_15832">Si</w>
       <w xml:id="c32_15833">vede</w>
       <w xml:id="c32_15834">ch’era</w>
       <w xml:id="c32_15835">uno</w>
@@ -6058,7 +6058,7 @@
       <w xml:id="c32_15854">del</w>
       <w xml:id="c32_15855">senso</w>
       <w xml:id="c32_15856">comune.</w>
-   </p><p><milestone unit="comma" n="148"/>
+   </p><p><milestone unit="comma" n="151" />
       <w xml:id="c32_15857">I</w>
       <w xml:id="c32_15858">magistrati,</w>
       <w xml:id="c32_15859">scemati</w>
@@ -6087,7 +6087,7 @@
       <w xml:id="c32_15882">di</w>
       <w xml:id="c32_15883">questi</w>
       <w xml:id="c32_15884">untori.</w>
-      <milestone unit="comma" n="149"/><w xml:id="c32_15885">Tra</w>
+      <milestone unit="comma" n="152" /><w xml:id="c32_15885">Tra</w>
       <w xml:id="c32_15886">le</w>
       <w xml:id="c32_15887">carte</w>
       <w xml:id="c32_15888">del</w>
@@ -6179,7 +6179,7 @@
          <w xml:id="c32_15971">veneno</w>
       </foreign>
       <w xml:id="c32_15972">.</w>
-      <milestone unit="comma" n="150"/>
+      <milestone unit="comma" n="153" />
       <w xml:id="c32_15973">Soggiunge</w>
       <w xml:id="c32_15974">che</w>
       <w xml:id="c32_15975">lui</w>
@@ -6273,7 +6273,7 @@
       <w xml:id="c32_16061">che</w>
       <w xml:id="c32_16062">fossero</w>
       <w xml:id="c32_16063">incolpati.</w>
-   </p><p><milestone unit="comma" n="151"/>
+   </p><p><milestone unit="comma" n="154" />
       <w xml:id="c32_16064">La</w>
       <w xml:id="c32_16065">cosa</w>
       <w xml:id="c32_16066">dové</w>
@@ -6298,7 +6298,7 @@
       <w xml:id="c32_16085">citano</w>
       <w xml:id="c32_16086">alcun</w>
       <w xml:id="c32_16087">fatto.</w>
-      <milestone unit="comma" n="152"/><w xml:id="c32_16088">Ma</w>
+      <milestone unit="comma" n="155" /><w xml:id="c32_16088">Ma</w>
       <w xml:id="c32_16089">pur</w>
       <w xml:id="c32_16090">troppo,</w>
       <w xml:id="c32_16091">in</w>
@@ -6308,7 +6308,7 @@
       <w xml:id="c32_16095">credé</w>
       <w xml:id="c32_16096">d’aver</w>
       <w xml:id="c32_16097">trovato.</w>
-   </p><p><milestone unit="comma" n="153"/>
+   </p><p><milestone unit="comma" n="156" />
       <w xml:id="c32_16098">I</w>
       <w xml:id="c32_16099">processi</w>
       <w xml:id="c32_16100">che</w>
@@ -6337,7 +6337,7 @@
       <w xml:id="c32_16123">storia</w>
       <w xml:id="c32_16124">della</w>
       <w xml:id="c32_16125">giurisprudenza.</w>
-      <milestone unit="comma" n="154"/><w xml:id="c32_16126">Ché,</w>
+      <milestone unit="comma" n="157" /><w xml:id="c32_16126">Ché,</w>
       <w xml:id="c32_16127">per</w>
       <w xml:id="c32_16128">tacere</w>
       <w xml:id="c32_16129">dell’antichità,</w>
@@ -6423,7 +6423,7 @@
       <w xml:id="c32_16209">tutto</w>
       <w xml:id="c32_16210">ciò</w>
       <w xml:id="c32_16211">insieme.</w>
-      <milestone unit="comma" n="155"/>
+      <milestone unit="comma" n="158" />
       <w xml:id="c32_16212">Ma</w>
       <w xml:id="c32_16213">l’affare</w>
       <w xml:id="c32_16214">delle</w>
@@ -6461,7 +6461,7 @@
       <w xml:id="c32_16246">e</w>
       <w xml:id="c32_16247">più</w>
       <w xml:id="c32_16248">autentici.</w>
-      <milestone unit="comma" n="156"/><w xml:id="c32_16249">E</w>
+      <milestone unit="comma" n="159" /><w xml:id="c32_16249">E</w>
       <w xml:id="c32_16250">quantunque</w>
       <w xml:id="c32_16251">uno</w>
       <w xml:id="c32_16252">scrittore</w>
@@ -6511,7 +6511,7 @@
       <w xml:id="c32_16296">d’un</w>
       <w xml:id="c32_16297">nuovo</w>
       <w xml:id="c32_16298">lavoro.</w>
-      <milestone unit="comma" n="157"/>
+      <milestone unit="comma" n="160" />
       <w xml:id="c32_16299">Ma</w>
       <w xml:id="c32_16300">non</w>
       <w xml:id="c32_16301">è</w>
@@ -6533,7 +6533,7 @@
       <w xml:id="c32_16317">l’estensione</w>
       <w xml:id="c32_16318">che</w>
       <w xml:id="c32_16319">merita.</w>
-      <milestone unit="comma" n="158"/><w xml:id="c32_16320">E</w>
+      <milestone unit="comma" n="161" /><w xml:id="c32_16320">E</w>
       <w xml:id="c32_16321">oltre</w>
       <w xml:id="c32_16322">di</w>
       <w xml:id="c32_16323">ciò,</w>
@@ -6558,7 +6558,7 @@
       <w xml:id="c32_16342">del</w>
       <w xml:id="c32_16343">nostro</w>
       <w xml:id="c32_16344">racconto.</w>
-      <milestone unit="comma" n="159"/><w xml:id="c32_16345">Serbando</w>
+      <milestone unit="comma" n="162" /><w xml:id="c32_16345">Serbando</w>
       <w xml:id="c32_16346">però</w>
       <w xml:id="c32_16347">a</w>
       <w xml:id="c32_16348">un</w>

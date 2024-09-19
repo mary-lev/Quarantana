@@ -38,9 +38,11 @@ Poco dopo il baleno, scoppiò il tuono; vale a dire che, una bella mattina, si s
 Questo buon successo così pronto, la lettera d'Attilio che faceva un gran coraggio, e minacciava di gran canzonature, fecero inclinar sempre più don Rodrigo al partito rischioso: ciò che gli diede l'ultima spinta, fu la notizia inaspettata che Agnese era tornata a casa sua: un impedimento di meno vicino a Lucia.
 Rendiam conto di questi due avvenimenti, cominciando dall'ultimo.
 Le due povere donne s'erano appena accomodate nel loro ricovero, che si sparse per Monza, e per conseguenza anche nel monastero, la nuova di quel gran fracasso di Milano; e dietro alla nuova grande, una serie infinita di particolari, che andavano crescendo e variandosi ogni momento.
-La fattoressa, che, dalla sua casa, poteva tenere un orecchio alla strada, e uno al monastero, raccoglieva notizie di qui, notizie di lì, e ne faceva parte all'ospiti. «Due, sei, otto, quattro, sette ne hanno messi in prigione; gl'impiccheranno, parte davanti al forno delle grucce ,parte in cima alla strada dove c'è la casa del vicario di provvisione...
+La fattoressa, che, dalla sua casa, poteva tenere un orecchio alla strada, e uno al monastero, raccoglieva notizie di qui, notizie di lì, e ne faceva parte all'ospiti.
+«Due, sei, otto, quattro, sette ne hanno messi in prigione; gl'impiccheranno, parte davanti al forno delle grucce ,parte in cima alla strada dove c'è la casa del vicario di provvisione...
 Ehi, ehi, sentite questa! n'è scappato uno, che è di Lecco, o di quelle parti.
-Il nome non lo so; ma verrà qualcheduno che me lo saprà dire; per veder se lo conoscete.» Quest'annunzio, con la circostanza d'esser Renzo appunto arrivato in Milano nel giorno fatale, diede qualche inquietudine alle donne, e principalmente a Lucia; ma pensate cosa fu quando la fattoressa venne a dir loro:«è proprio del vostro paese quello che se l'è battuta, per non essere impiccato; un filatore di seta, che si chiama Tramaglino: lo conoscete?»
+Il nome non lo so; ma verrà qualcheduno che me lo saprà dire; per veder se lo conoscete.»
+Quest'annunzio, con la circostanza d'esser Renzo appunto arrivato in Milano nel giorno fatale, diede qualche inquietudine alle donne, e principalmente a Lucia; ma pensate cosa fu quando la fattoressa venne a dir loro:«è proprio del vostro paese quello che se l'è battuta, per non essere impiccato; un filatore di seta, che si chiama Tramaglino: lo conoscete?»
 A Lucia, ch'era a sedere, orlando non so che cosa, cadde il lavoro di mano; impallidì, si cambiò tutta, di maniera che la fattoressa se ne sarebbe avvista certamente, se le fosse stata più vicina.
 Ma era ritta sulla soglia con Agnese; la quale, conturbata anche lei, però non tanto, poté star forte; e, per risponder qualcosa, disse che, in un piccolo paese, tutti si conoscono, e che lo conosceva; ma che non sapeva pensare come mai gli fosse potuta seguire una cosa simile; perché era un giovine posato.
 Domandò poi se era scappato di certo, e dove.
@@ -123,7 +125,8 @@ E se vi risolvete di cercar qualcheduno de' nostri padri, il convento è qui che
 Ehi, mi lascerò poi veder presto, per la cerca dell'olio.»
 «State bene,» disse Agnese; e s'incamminò verso il suo paesetto, desolata, confusa, sconcertata, come il povero cieco che avesse perduto il suo bastone.
 Un po' meglio informati che fra Galdino, noi possiamo dire come andò veramente la cosa.
-Attilio, appena arrivato a Milano, andò, come aveva promesso a don Rodrigo, a far visita al loro comune zio del Consiglio segreto. (Era una consulta, composta allora di tredici personaggi di toga e di spada, da cui il governatore prendeva parere, e che, morendo uno di questi, o venendo mutato, assumeva temporariamente il governo).
+Attilio, appena arrivato a Milano, andò, come aveva promesso a don Rodrigo, a far visita al loro comune zio del Consiglio segreto.
+(Era una consulta, composta allora di tredici personaggi di toga e di spada, da cui il governatore prendeva parere, e che, morendo uno di questi, o venendo mutato, assumeva temporariamente il governo).
 Il conte zio, togato, e uno degli anziani del consiglio, vi godeva un certo credito; ma nel farlo valere, e nel farlo rendere con gli altri, non c'era il suo compagno.
 Un parlare ambiguo, un tacere significativo, un restare a mezzo, uno stringer d'occhi che esprimeva: non posso parlare; un lusingare senza promettere, un minacciare in cerimonia; tutto era diretto a quel fine; e tutto, o più o meno, tornava in pro.
 A segno che fino a un: io non posso niente in questo affare: detto talvolta per la pura verità, ma detto in modo che non gli era creduto, serviva ad accrescere il concetto, e quindi la realtà del suo potere: come quelle scatole che si vedono ancora in qualche bottega di speziale, con su certe parole arabe, e dentro non c'è nulla; ma servono a mantenere il credito alla bottega.
@@ -136,7 +139,9 @@ Ma è riscaldato; e, come dico, non c'è che il signore zio, che possa...»
 «Vediamo, vediamo.»
 «C'è da quelle parti un frate cappuccino che l'ha con Rodrigo; e la cosa è arrivata a un punto, che...»
 «Quante volte v'ho detto, all'uno e all'altro, che i frati bisogna lasciarli cuocere nel loro brodo?
-Basta il da fare che danno a chi deve... a chi tocca...» E qui soffiò. «Ma voi altri che potete scansarli...»
+Basta il da fare che danno a chi deve... a chi tocca...»
+E qui soffiò.
+«Ma voi altri che potete scansarli...»
 «Signore zio, in questo, è mio dovere di dirle che Rodrigo l'avrebbe scansato, se avesse potuto.
 È il frate che l'ha con lui, che ha preso a provocarlo in tutte le maniere...»
 «Che diavolo ha codesto frate con mio nipote?»
@@ -164,12 +169,14 @@ La vedremo, la vedremo,» diceva il conte zio, seguitando a soffiare.
 Voleva costui maritare quella sua creatura: fosse per levarla dai pericoli del mondo, lei m'intende, o per che altro si fosse, la voleva maritare assolutamente; e aveva trovato il... l'uomo: un'altra sua creatura, un soggetto, che, forse e senza forse, anche il signore zio lo conoscerà di nome; perché tengo per certo che il Consiglio segreto avrà dovuto occuparsi di quel degno soggetto.»
 «Chi è costui?»
 «Un filatore di seta, Lorenzo Tramaglino, quello che...»
-«Lorenzo Tramaglino!» esclamò il conte zio. «Ma bene! ma bravo, padre!
+«Lorenzo Tramaglino!» esclamò il conte zio.
+«Ma bene! ma bravo, padre!
 Sicuro... in fatti..., aveva una lettera per un...
 Peccato che...
 Ma non importa; va bene.
 E perché il signor don Rodrigo non mi dice nulla di tutto questo? perché lascia andar le cose tant'avanti, e non si rivolge a chi lo può e vuole dirigere e sostenere?»
-«Dirò il vero anche in questo,» proseguiva Attilio. «Da una parte, sapendo quante brighe, quante cose ha per la testa il signore zio...» (questo, soffiando, vi mise la mano, come per significare la gran fatica ch'era a farcele star tutte) «s'è fatto scrupolo di darle una briga di più.
+«Dirò il vero anche in questo,» proseguiva Attilio.
+«Da una parte, sapendo quante brighe, quante cose ha per la testa il signore zio...» (questo, soffiando, vi mise la mano, come per significare la gran fatica ch'era a farcele star tutte) «s'è fatto scrupolo di darle una briga di più.
 E poi, dirò tutto: da quello che ho potuto capire, è così irritato, così fuor de' gangheri, così stucco delle villanie di quel frate, che ha più voglia di farsi giustizia da sé, in qualche maniera sommaria, che d'ottenerla in una maniera regolare, dalla prudenza e dal braccio del signore zio.
 Io ho cercato di smorzare; ma vedendo che la cosa andava per le brutte, ho creduto che fosse mio dovere d'avvertir di tutto il signore zio, che alla fine è il capo e la colonna della casa...»
 «Avresti fatto meglio a parlare un poco prima.»
@@ -181,7 +188,8 @@ Ho detto tra me: il signore zio, con la sua avvedutezza, con la sua autorità, s
 Questo frate, dicevo io, l'ha sempre col cordone di san Francesco; ma per adoprarlo a proposito, il cordone di san Francesco, non è necessario d'averlo intorno alla pancia.
 Il signore zio ha cento mezzi ch'io non conosco: so che il padre provinciale ha, com'è giusto, una gran deferenza per lui; e se il signore zio crede che in questo caso il miglior ripiego sia di far cambiar aria al frate, lui con due parole...»
 «Lasci il pensiero a chi tocca, vossignoria,» disse un po' ruvidamente il conte zio.
-«Ah è vero!» esclamò Attilio, con una tentennatina di testa, e con un sogghigno di compassione per sé stesso. «Son io l'uomo da dar pareri al signore zio!
+«Ah è vero!» esclamò Attilio, con una tentennatina di testa, e con un sogghigno di compassione per sé stesso.
+«Son io l'uomo da dar pareri al signore zio!
 Ma è la passione che ho della riputazione del casato che mi fa parlare.
 E ho anche paura d'aver fatto un altro male,» soggiunse con un'aria pensierosa: «ho paura d'aver fatto torto a don Rodrigo nel concetto del signore zio.
 Non mi darei pace, se fossi cagione di farle pensare che don Rodrigo non abbia tutta quella fede in lei, tutta quella sommissione che deve avere.

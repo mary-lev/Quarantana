@@ -33,12 +33,16 @@ Che se, in vece di romper la folla, si fossero sparpagliati loro tra quella, si 
 L'irresolutezza del comandante e l'immobilità de' soldati parve, a diritto o a torto, paura.
 La gente che si trovavan vicino a loro, si contentavano di guardargli in viso, con un'aria, come si dice, di me n'impipo; quelli ch'erano un po' più lontani, non se ne stavano di provocarli, con visacci e con grida di scherno; più in là, pochi sapevano o si curavano che ci fossero; i guastatori seguitavano a smurare, senz'altro pensiero che di riuscir presto nell'impresa; gli spettatori non cessavano d'animarla con gli urli.
 Spiccava tra questi, ed era lui stesso spettacolo, un vecchio mal vissuto, che, spalancando due occhi affossati e infocati, contraendo le grinze a un sogghigno di compiacenza diabolica, con le mani alzate sopra una canizie vituperosa, agitava in aria un martello, una corda, quattro gran chiodi, con che diceva di volere attaccare il vicario a un battente della sua porta, ammazzato che fosse.
-«Oibò! vergogna!» scappò fuori Renzo, inorridito a quelle parole, alla vista di tant'altri visi che davan segno d'approvarle, e incoraggito dal vederne degli altri, sui quali, benché muti, traspariva lo stesso orrore del quale era compreso lui. «Vergogna!
+«Oibò! vergogna!» scappò fuori Renzo, inorridito a quelle parole, alla vista di tant'altri visi che davan segno d'approvarle, e incoraggito dal vederne degli altri, sui quali, benché muti, traspariva lo stesso orrore del quale era compreso lui.
+«Vergogna!
 Vogliam noi rubare il mestiere al boia? assassinare un cristiano?
 Come volete che Dio ci dia del pane, se facciamo di queste atrocità?
 Ci manderà de' fulmini, e non del pane!»
-«Ah cane! ah traditor della patria!» gridò, voltandosi a Renzo, con un viso da indemoniato, un di coloro che avevan potuto sentire tra il frastono quelle sante parole. «Aspetta, aspetta!
-È un servitore del vicario, travestito da contadino: è una spia: dalli, dalli!» Cento voci si spargono all'intorno. «Cos'è? dov'è? chi è?
+«Ah cane! ah traditor della patria!» gridò, voltandosi a Renzo, con un viso da indemoniato, un di coloro che avevan potuto sentire tra il frastono quelle sante parole.
+«Aspetta, aspetta!
+È un servitore del vicario, travestito da contadino: è una spia: dalli, dalli!»
+Cento voci si spargono all'intorno.
+«Cos'è? dov'è? chi è?
 Un servitore del vicario.
 Una spia.
 Il vicario travestito da contadino, che scappa.
@@ -53,8 +57,15 @@ Altri sollevano con le mani il peso morto, vi si caccian sotto, se lo mettono ad
 La macchina fatale s'avanza balzelloni, e serpeggiando.
 Arrivò a tempo a distrarre e a disordinare i nemici di Renzo, il quale profittò della confusione nata nella confusione; e, quatto quatto sul principio, poi giocando di gomita a più non posso, s'allontanò da quel luogo, dove non c'era buon'aria per lui, con l'intenzione anche d'uscire, più presto che potesse, dal tumulto, e d'andar davvero a trovare o a aspettare il padre Bonaventura.
 Tutt'a un tratto, un movimento straordinario cominciato a una estremità, si propaga per la folla, una voce si sparge, viene avanti di bocca in bocca: «Ferrer!
-Ferrer!» Una maraviglia, una gioia, una rabbia, un'inclinazione, una ripugnanza, scoppiano per tutto dove arriva quel nome; chi lo grida, chi vuol soffogarlo; chi afferma, chi nega; chi benedice, chi bestemmia.
-«È qui Ferrer!» «Non è vero, non è vero!» «Sì, sì; viva Ferrer! quello che ha messo il pane a buon mercato.» «No, no!» «È qui, è qui in carrozza.» «Cosa importa? che c'entra lui? non vogliamo nessuno!»«Ferrer! viva Ferrer! l'amico della povera gente! viene per condurre in prigione il vicario.»«No, no: vogliamo far giustizia noi: indietro, indietro!» «Sì, sì: Ferrer! venga Ferrer! in prigione il vicario!»
+Ferrer!»
+Una maraviglia, una gioia, una rabbia, un'inclinazione, una ripugnanza, scoppiano per tutto dove arriva quel nome; chi lo grida, chi vuol soffogarlo; chi afferma, chi nega; chi benedice, chi bestemmia.
+«È qui Ferrer!»
+«Non è vero, non è vero!»
+«Sì, sì; viva Ferrer! quello che ha messo il pane a buon mercato.»
+«No, no!»
+«È qui, è qui in carrozza.»
+«Cosa importa? che c'entra lui? non vogliamo nessuno!»«Ferrer! viva Ferrer! l'amico della povera gente! viene per condurre in prigione il vicario.»«No, no: vogliamo far giustizia noi: indietro, indietro!»
+«Sì, sì: Ferrer! venga Ferrer! in prigione il vicario!»
 E tutti, alzandosi in punta di piedi, si voltano a guardare da quella parte donde s'annunziava l'inaspettato arrivo.
 Alzandosi tutti, vedevano né più né meno che se fossero stati tutti con le piante in terra; ma tant'è, tutti s'alzavano.
 In fatti, all'estremità della folla, dalla parte opposta a quella dove stavano i soldati, era arrivato in carrozza Antonio Ferrer, il gran cancelliere; il quale, rimordendogli probabilmente la coscienza d'essere co' suoi spropositi e con la sua ostinazione, stato causa, o almeno occasione di quella sommossa, veniva ora a cercar d'acquietarla, e d'impedirne almeno il più terribile e irreparabile effetto: veniva a spender bene una popolarità mal acquistata.
@@ -98,7 +109,8 @@ Lei è un galantuomo.
 Pane, pane!»
 «Sì; pane, pane,» rispondeva Ferrer: «abbondanza; lo prometto io,» e metteva la mano al petto.
 «Un po' di luogo,» aggiungeva subito: «vengo per condurlo in prigione, per dargli il giusto gastigo che si merita:» e soggiungeva sottovoce: «si es culpable.» Chinandosi poi innanzi verso il cocchiere, gli diceva in fretta: «adelante, Pedro, si puedes.»
-Il cocchiere sorrideva anche lui alla moltitudine, con una grazia affettuosa, come se fosse stato un gran personaggio; e con un garbo ineffabile, dimenava adagio adagio la frusta, a destra e a sinistra, per chiedere agl'incomodi vicini che si ristringessero e si ritirassero un poco. «Di grazia,» diceva anche lui, «signori miei, un po' di luogo, un pochino; appena appena da poter passare».
+Il cocchiere sorrideva anche lui alla moltitudine, con una grazia affettuosa, come se fosse stato un gran personaggio; e con un garbo ineffabile, dimenava adagio adagio la frusta, a destra e a sinistra, per chiedere agl'incomodi vicini che si ristringessero e si ritirassero un poco.
+«Di grazia,» diceva anche lui, «signori miei, un po' di luogo, un pochino; appena appena da poter passare».
 Intanto i benevoli più attivi s'adopravano a far fare il luogo chiesto così gentilmente.
 Alcuni davanti ai cavalli facevano ritirar le persone, con buone parole, con un mettere le mani sui petti, con certe spinte soavi: «in là, via, un po' di luogo, signori;» alcuni facevan lo stesso dalle due parti della carrozza, perché potesse passare senza arrotar piedi, né ammaccar mostacci; che, oltre il male delle persone, sarebbe stato porre a un gran repentaglio l'auge d'Antonio Ferrer.
 Renzo, dopo essere stato qualche momento a vagheggiare quella decorosa vecchiezza, conturbata un po' dall'angustia, aggravata dalla fatica, ma animata dalla sollecitudine, abbellita, per dir così, dalla speranza di togliere un uomo all'angosce mortali, Renzo, dico, mise da parte ogni pensiero d'andarsene; e si risolvette d'aiutare Ferrer, e di non abbandonarlo, fin che non fosse ottenuto l'intento.
@@ -132,10 +144,12 @@ Chiusa qui vuol dire non aperta; del resto i gangheri eran quasi sconficcati fuo
 Un galantuomo s'era affacciato a quel fesso, a gridar che aprissero; un altro spalancò in fretta lo sportello della carrozza: il vecchio mise fuori la testa, s'alzò, e afferrando con la destra il braccio di quel galantuomo, uscì, e scese sul predellino.
 La folla, da una parte e dall'altra, stava tutta in punta di piedi per vedere: mille visi, mille barbe in aria: la curiosità e l'attenzione generale creò un momento di generale silenzio.
 Ferrer, fermatosi quel momento sul predellino, diede un'occhiata in giro, salutò con un inchino la moltitudine, come da un pulpito, e messa la mano sinistra al petto, gridò: «pane e giustizia;» e franco, diritto, togato, scese in terra, tra l'acclamazioni che andavano alle stelle.
-Intanto quelli di dentro avevano aperto, ossia avevan finito d'aprire, tirando via il catenaccio insieme con gli anelli già mezzi sconficcati, e allargando lo spiraglio, appena quanto bastava per fare entrare il desideratissimo ospite. «Presto, presto,» diceva lui: «aprite bene, ch'io possa entrare: e voi, da bravi, tenete indietro la gente; non mi lasciate venire addosso... per l'amor del cielo!
+Intanto quelli di dentro avevano aperto, ossia avevan finito d'aprire, tirando via il catenaccio insieme con gli anelli già mezzi sconficcati, e allargando lo spiraglio, appena quanto bastava per fare entrare il desideratissimo ospite.
+«Presto, presto,» diceva lui: «aprite bene, ch'io possa entrare: e voi, da bravi, tenete indietro la gente; non mi lasciate venire addosso... per l'amor del cielo!
 Serbate un po' di largo per tra poco.
 Ehi! ehi! signori, un momento,» diceva poi ancora a quelli di dentro: «adagio con quel battente, lasciatemi passare: eh! le mie costole; vi raccomando le mie costole.
-Chiudete ora: no; eh! eh! la toga! la toga!» Sarebbe in fatti rimasta presa tra i battenti, se Ferrer non n'avesse ritirato con molta disinvoltura lo strascico, che disparve come la coda d'una serpe, che si rimbuca inseguita.
+Chiudete ora: no; eh! eh! la toga! la toga!»
+Sarebbe in fatti rimasta presa tra i battenti, se Ferrer non n'avesse ritirato con molta disinvoltura lo strascico, che disparve come la coda d'una serpe, che si rimbuca inseguita.
 Riaccostati i battenti, furono anche riappuntellati alla meglio.
 Di fuori, quelli che s'eran costituiti guardia del corpo di Ferrer, lavoravano di spalle, di braccia e di grida, a mantener la piazza vòta, pregando in cuor loro il Signore che lo facesse far presto.
 «Presto, presto,» diceva anche Ferrer di dentro, sotto il portico, ai servitori, che gli si eran messi d'intorno ansanti, gridando: «sia benedetto! ah eccellenza! oh eccellenza! uh eccellenza!»
@@ -143,7 +157,8 @@ Di fuori, quelli che s'eran costituiti guardia del corpo di Ferrer, lavoravano d
 Il vicario scendeva le scale, mezzo strascicato e mezzo portato da altri suoi servitori, bianco come un panno lavato.
 Quando vide il suo aiuto, mise un gran respiro; gli tornò il polso, gli scorse un po' di vita nelle gambe, un po' di colore sulle gote; e corse, come poté, verso Ferrer, dicendo: «sono nelle mani di Dio e di vostra eccellenza.
 Ma come uscir di qui?
-Per tutto c'è gente che mi vuol morto». « Venga usted con migo , e si faccia coraggio: qui fuori c'è la mia carrozza; presto, presto.» Lo prese per la mano, e lo condusse verso la porta, facendogli coraggio tuttavia; ma diceva intanto tra sé: - acqui està el busilis; Dios nos valga! -
+Per tutto c'è gente che mi vuol morto». « Venga usted con migo , e si faccia coraggio: qui fuori c'è la mia carrozza; presto, presto.»
+Lo prese per la mano, e lo condusse verso la porta, facendogli coraggio tuttavia; ma diceva intanto tra sé: - acqui està el busilis; Dios nos valga! -
 La porta s'apre; Ferrer esce il primo; l'altro dietro, rannicchiato, attaccato, incollato alla toga salvatrice, come un bambino alla sottana della mamma.
 Quelli che avevan mantenuta la piazza vòta, fanno ora, con un alzar di mani, di cappelli, come una rete, una nuvola, per sottrarre alla vista pericolosa della moltitudine il vicario; il quale entra il primo nella carrozza, e vi si rimpiatta in un angolo.
 Ferrer sale dopo; lo sportello vien chiuso.

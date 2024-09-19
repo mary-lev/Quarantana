@@ -47,7 +47,8 @@ Mise l'indice e il medio della mano sinistra nel collare, come per raccomodarlo;
 Diede un'occhiata, al di sopra del muricciolo, ne' campi: nessuno; un'altra più modesta sulla strada dinanzi; nessuno, fuorché i bravi.
 Che fare? tornare indietro, non era a tempo: darla a gambe, era lo stesso che dire, inseguitemi, o peggio.
 Non potendo schivare il pericolo, vi corse incontro, perché i momenti di quell'incertezza erano allora così penosi per lui, che non desiderava altro che d'abbreviarli.
-Affrettò il passo, recitò un versetto a voce più alta, compose la faccia a tutta quella quiete e ilarità che poté, fece ogni sforzo per preparare un sorriso; quando si trovò a fronte dei due galantuomini, disse mentalmente: ci siamo; e si fermò su due piedi. «Signor curato,» disse un di que' due, piantandogli gli occhi in faccia.
+Affrettò il passo, recitò un versetto a voce più alta, compose la faccia a tutta quella quiete e ilarità che poté, fece ogni sforzo per preparare un sorriso; quando si trovò a fronte dei due galantuomini, disse mentalmente: ci siamo; e si fermò su due piedi.
+«Signor curato,» disse un di que' due, piantandogli gli occhi in faccia.
 «Cosa comanda?» rispose subito don Abbondio, alzando i suoi dal libro, che gli restò spalancato nelle mani, come sur un leggìo.
 «Lei ha intenzione,» proseguì l'altro, con l'atto minaccioso e iracondo di chi coglie un suo inferiore sull'intraprendere una ribalderia, «lei ha intenzione di maritar domani Renzo Tramaglino e Lucia Mondella!»
 «Cioè...» rispose, con voce tremolante, don Abbondio: «cioè.
@@ -65,16 +66,19 @@ Uomo avvertito... lei c'intende.»
 Signor curato, l'illustrissimo signor don Rodrigo nostro padrone la riverisce caramente.»
 Questo nome fu, nella mente di don Abbondio, come, nel forte d'un temporale notturno, un lampo che illumina momentaneamente e in confuso gli oggetti, e accresce il terrore.
 Fece, come per istinto, un grand'inchino, e disse: «se mi sapessero suggerire...»
-«Oh! suggerire a lei che sa di latino!» interruppe ancora il bravo, con un riso tra lo sguaiato e il feroce. «A lei tocca.
+«Oh! suggerire a lei che sa di latino!» interruppe ancora il bravo, con un riso tra lo sguaiato e il feroce.
+«A lei tocca.
 E sopra tutto, non si lasci uscir parola su questo avviso, che le abbiam dato per suo bene; altrimenti... ehm... sarebbe lo stesso che fare quel tal matrimonio.
 Via, che vuol che si dica in suo nome all'illustrissimo signor don Rodrigo?»
 «Il mio rispetto...»
 «Si spieghi meglio!»
 «...
-Disposto... disposto sempre all'ubbidienza.» E, proferendo queste parole, non sapeva nemmen lui se faceva una promessa, o un complimento.
+Disposto... disposto sempre all'ubbidienza.»
+E, proferendo queste parole, non sapeva nemmen lui se faceva una promessa, o un complimento.
 I bravi le presero, o mostraron di prenderle nel significato più serio.
 «Benissimo, e buona notte, messere,» disse l'un d'essi, in atto di partir col compagno.
-Don Abbondio, che, pochi momenti prima, avrebbe dato un occhio per iscansarli, allora avrebbe voluto prolungar la conversazione e le trattative. «Signori...» cominciò, chiudendo il libro con le due mani; ma quelli, senza più dargli udienza, presero la strada dond'era lui venuto, e s'allontanarono, cantando una canzonaccia che non voglio trascrivere.
+Don Abbondio, che, pochi momenti prima, avrebbe dato un occhio per iscansarli, allora avrebbe voluto prolungar la conversazione e le trattative.
+«Signori...» cominciò, chiudendo il libro con le due mani; ma quelli, senza più dargli udienza, presero la strada dond'era lui venuto, e s'allontanarono, cantando una canzonaccia che non voglio trascrivere.
 Il povero don Abbondio rimase un momento a bocca aperta, come incantato; poi prese quella delle due stradette che conduceva a casa sua, mettendo innanzi a stento una gamba dopo l'altra, che parevano aggranchiate.
 Come stesse di dentro, s'intenderà meglio, quando avrem detto qualche cosa del suo naturale, e de' tempi in cui gli era toccato di vivere.
 Don Abbondio (il lettore se n'è già avveduto) non era nato con un cuor di leone.
@@ -180,9 +184,11 @@ E io ho sempre veduto che a chi sa mostrare i denti, e farsi stimare, gli si por
 «Volete tacere?
 È tempo ora di dir codeste baggianate?»
 «Basta: ci penserà questa notte; ma intanto non cominci a farsi male da sé, a rovinarsi la salute; mangi un boccone.»
-«Ci penserò io,» rispose, brontolando, don Abbondio: «sicuro; io ci penserò, io ci ho da pensare.» E s'alzò, continuando: «non voglio prender niente; niente: ho altra voglia: lo so anch'io che tocca a pensarci a me.
+«Ci penserò io,» rispose, brontolando, don Abbondio: «sicuro; io ci penserò, io ci ho da pensare.»
+E s'alzò, continuando: «non voglio prender niente; niente: ho altra voglia: lo so anch'io che tocca a pensarci a me.
 Ma! la doveva accader per l'appunto a me.»
-«Mandi almen giù quest'altro gocciolo,» disse Perpetua, mescendo. «Lei sa che questo le rimette sempre lo stomaco.»
+«Mandi almen giù quest'altro gocciolo,» disse Perpetua, mescendo.
+«Lei sa che questo le rimette sempre lo stomaco.»
 «Eh! ci vuol altro, ci vuol altro, ci vuol altro.»
 Così dicendo, prese il lume, e, brontolando sempre: «una piccola bagattella! a un galantuomo par mio! e domani com'andrà?» e altre simili lamentazioni, s'avviò per salire in camera.
 Giunto su la soglia, si voltò indietro verso Perpetua, mise il dito sulla bocca, disse, con tono lento e solenne: «per amor del cielo!» e disparve.
